@@ -8898,7 +8898,18 @@ https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900024R1
 
 #EXTINF:-1 tvg-id="001" group-title="discoveryplus" tvg-name="Discovery HD-Rs6" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  BJ TECH KNOWLEDGE",Discovery HD-Rs6
 http://103.153.39.36:8000/play/a00y
-
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Animal Planet" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Animal Planet
+https://jai-shree-ram.in1.bitmana.io/discplus/5_Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Channel" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Channel
+https://jai-shree-ram.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Science" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Science
+https://jai-shree-ram.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Turbo" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Turbo
+https://jai-shree-ram.in1.bitmana.io/discplus/4_Discovery_Turbo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Euro Sports" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Euro Sports
+https://snehapi.in1.bitmana.io/discplus/7_Eurosport/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Investigation Discovery" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Investigation Discovery
+https://jai-shree-ram.in1.bitmana.io/discplus/6_Investigation_Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery+",Discovery Channel 
 https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=95
