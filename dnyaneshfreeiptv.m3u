@@ -8895,14 +8895,9 @@ https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900023QJ
 #EXTINF:-1 tvg-id="INBA4900024R1" group-title="Samsung TV" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900024R1_20211217T014300CIRCLE.png_20211217014301.png", Jack Hanna
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900024R1
 
-#EXTINF:-1 tvg-id="" group-title="discoveryplus" tvg-name="Server ID: Animal Planet HD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Server ID",Server ID: Animal Planet HD
-http://forsat.men:8888/merpatistream/merpati99/3615
-#EXTINF:-1 tvg-id="" group-title="discoveryplus" tvg-name="Server ID: Animal Planet FHD" tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/channel-logo-animal-planet-1.png" group-title="Server ID",Server ID: Animal Planet FHD
-http://forsat.men:8888/merpatistream/merpati99/3616
-#EXTINF:-1 tvg-id="" group-title="discoveryplus" tvg-name="Server ID: Discovery Channel HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Server ID",Server ID: Discovery Channel HD
-http://forsat.men:8888/merpatistream/merpati99/3617
-#EXTINF:-1 tvg-id="" group-title="discoveryplus" tvg-name="Server ID: Discovery Channel FHD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="Server ID",Server ID: Discovery Channel FHD
-http://forsat.men:8888/merpatistream/merpati99/3618
+
+#EXTINF:-1 tvg-id="001" group-title="discoveryplus" tvg-name="Discovery HD-Rs6" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  BJ TECH KNOWLEDGE",Discovery HD-Rs6
+http://103.153.39.36:8000/play/a00y
 
 
 #EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery+",Discovery Channel 
