@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 group-title="Playlist is free", Playlist is free From Dnyanesh
+#EXTINF:-1 group-title="Playlist is free From Dnyanesh", Playlist is free
 
 
 #EXTINF:-1 tvg-id="red48105" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Star Sports 1 HD
