@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 group-title="Playlist is free from D", Playlist is free from D
+#EXTINF:-1 group-title="Playlist is free from Dnyanesh", Playlist is free from D
 https://dnyaneshpainjane.github.io/web/
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg" group-title="SonyLIV",SET Live 
