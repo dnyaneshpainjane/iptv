@@ -4,7 +4,7 @@
 https://dnyaneshpainjane.github.io/web/
 
 #EXTINF:-1 tvg-id="291" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg" group-title="SonyLIV",SET Live 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009246|user-agent=ExoPlayer
+
 #EXTINF:-1 tvg-id="471" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb.jpg" group-title="SonyLIV",Sony SAB 
 https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009248|user-agent=ExoPlayer
 #EXTINF:-1 tvg-id="1146" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb.jpg" group-title="SonyLIV",Sony Marathi 
