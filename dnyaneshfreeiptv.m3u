@@ -915,15 +915,15 @@ https://m-c047-j2apps.s.llnwi.net/hls/8086.AnandiTV.in.m3u8
 #EXTINF:-1 tvg-id="8081.KensonNews.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8081.KensonNews.in/en/1x1/208x208/test_pic1645523471523.webp", Kenson News
 https://m-c048-j2apps.s.llnwi.net/hls/8081.KensonNews.in.m3u8
 
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Animal Planet" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Animal Planet
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Animal Planet" tvg-logo="" ,Animal Planet
 https://jai-shree-ram.in1.bitmana.io/discplus/5_Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Channel" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Channel
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Channel" tvg-logo="" ,Discovery Channel
 https://jai-shree-ram.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Science" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Science
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Science" tvg-logo="" ,Discovery Science
 https://jai-shree-ram.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Turbo" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Turbo
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Turbo" tvg-logo="" ,Discovery Turbo
 https://jai-shree-ram.in1.bitmana.io/discplus/4_Discovery_Turbo/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Investigation Discovery" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Investigation Discovery
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Investigation Discovery" tvg-logo="" ,Investigation Discovery
 https://jai-shree-ram.in1.bitmana.io/discplus/6_Investigation_Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="red48105" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Star Sports 1 HD
