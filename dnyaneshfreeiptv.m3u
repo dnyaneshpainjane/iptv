@@ -915,7 +915,16 @@ https://m-c047-j2apps.s.llnwi.net/hls/8086.AnandiTV.in.m3u8
 #EXTINF:-1 tvg-id="8081.KensonNews.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8081.KensonNews.in/en/1x1/208x208/test_pic1645523471523.webp", Kenson News
 https://m-c048-j2apps.s.llnwi.net/hls/8081.KensonNews.in.m3u8
 
-
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Animal Planet" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Animal Planet
+https://jai-shree-ram.in1.bitmana.io/discplus/5_Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Channel" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Channel
+https://jai-shree-ram.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Science" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Science
+https://jai-shree-ram.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Turbo" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Turbo
+https://jai-shree-ram.in1.bitmana.io/discplus/4_Discovery_Turbo/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Investigation Discovery" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Investigation Discovery
+https://jai-shree-ram.in1.bitmana.io/discplus/6_Investigation_Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="red48105" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Star Sports 1 HD
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48105|user-agent=REDLINECLIENT
@@ -8895,21 +8904,6 @@ https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900023QJ
 #EXTINF:-1 tvg-id="INBA4900024R1" group-title="Samsung TV" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900024R1_20211217T014300CIRCLE.png_20211217014301.png", Jack Hanna
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900024R1
 
-
-#EXTINF:-1 tvg-id="001" group-title="discoveryplus" tvg-name="Discovery HD-Rs6" tvg-logo="https://assetscdn1.paytm.com/images/catalog/brand/1548841948559.png" group-title="Airtel TV  BJ TECH KNOWLEDGE",Discovery HD-Rs6
-http://103.153.39.36:8000/play/a00y
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Animal Planet" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Animal Planet
-https://jai-shree-ram.in1.bitmana.io/discplus/5_Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Channel" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Channel
-https://jai-shree-ram.in1.bitmana.io/discplus/1_Discovery_Channel/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Science" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Science
-https://jai-shree-ram.in1.bitmana.io/discplus/2_Discovery_Science/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Discovery Turbo" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Discovery Turbo
-https://jai-shree-ram.in1.bitmana.io/discplus/4_Discovery_Turbo/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Euro Sports" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Euro Sports
-https://snehapi.in1.bitmana.io/discplus/7_Eurosport/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Investigation Discovery" tvg-logo="" group-title="DISCOVERY + BJ TECH KNOWLEDGE",Investigation Discovery
-https://jai-shree-ram.in1.bitmana.io/discplus/6_Investigation_Discovery/index.m3u8
 
 #EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery+",Discovery Channel 
 https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=95
