@@ -1,7 +1,52 @@
 #EXTM3U x-tvg-url="http://rstream.me/epg.xml.gz"
 
-#EXTINF:-1 group-title="Playlist is free from D", Playlist is free
+#EXTINF:-1 group-title="Playlist is free from D", Playlist is free from D
 https://t.me/freeiptvindia
+
+#EXTINF:-1 tvg-id="291" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg" group-title="SonyLIV",SET Live 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009246|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="471" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb.jpg" group-title="SonyLIV",Sony SAB 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009248|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="1146" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb.jpg" group-title="SonyLIV",Sony Marathi 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009259|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="821" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony BBC Earth 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009252|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="474" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg" group-title="SonyLIV",Sony PAL 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009273|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="697" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/Re_Sony_Aath_LIVE_channel_portrait_thumb.jpg" group-title="SonyLIV",Sony Aath 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009255|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="872" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyYAY_Portrait_Thumb.jpg" group-title="SonyLIV",Sony YAY 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000001971|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="476" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg" group-title="SonyLIV",Sony MAX 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009247|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="1276" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyWAH_Portrait_Thumb.jpg" group-title="SonyLIV",Sony WAH 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009253|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="483" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg" group-title="SonyLIV",Sony MAX2 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000044878|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPIXHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony PIX 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009258|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="476" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony MAX 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009249|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="155" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony SIX HD 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009275|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="162" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN1HD_Portrait_Thumb_rev.jpg" group-title="SonyLIV",Sony Ten 1 HD 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009276|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_Thumb_1.jpg" group-title="SonyLIV",Sony Ten 3 HD 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009278|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="891" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN2HD_Portrait_Thumb_new.jpg" group-title="SonyLIV",Sony Ten 2 HD 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009277|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="1772" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony Ten 4 HD 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000119186|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SIX_Portrait_Thumb.jpg" group-title="SonyLIV",Sony SIX SD 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009281|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="514" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN1_Portrait_Thumb_rev.jpg" group-title="SonyLIV",Sony Ten 1 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009280|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="523" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN2_Portrait_Thumb_new.jpg" group-title="SonyLIV",Sony Ten 2 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009279|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3_Portrait_Thumb_1.jpg" group-title="SonyLIV",Sony Ten 3 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009283|user-agent=ExoPlayer
+#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4SD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony Ten 4 
+https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000119187|user-agent=ExoPlayer
 
 
 #EXTINF:-1 tvg-id="red48105" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Star Sports 1 HD
@@ -2070,50 +2115,7 @@ https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-9z575356
 #EXTINF:-1 tvg-id="0-9-9z583386" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-9z583386/channel_list/timesnownavbharat1170e4f4cbfa707b40e19ca7748eb6b27449.png", Times Now Navbharat
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-9z583386
 
-#EXTINF:-1 tvg-id="291" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg" group-title="SonyLIV",SET Live 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009246|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="471" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb.jpg" group-title="SonyLIV",Sony SAB 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009248|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="1146" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb.jpg" group-title="SonyLIV",Sony Marathi 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009259|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="821" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony BBC Earth 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009252|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="474" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg" group-title="SonyLIV",Sony PAL 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009273|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="697" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/Re_Sony_Aath_LIVE_channel_portrait_thumb.jpg" group-title="SonyLIV",Sony Aath 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009255|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="872" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyYAY_Portrait_Thumb.jpg" group-title="SonyLIV",Sony YAY 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000001971|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="476" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg" group-title="SonyLIV",Sony MAX 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009247|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="1276" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyWAH_Portrait_Thumb.jpg" group-title="SonyLIV",Sony WAH 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009253|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="483" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg" group-title="SonyLIV",Sony MAX2 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000044878|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="762" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPIXHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony PIX 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009258|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="476" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony MAX 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009249|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="155" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SIXHD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony SIX HD 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009275|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="162" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN1HD_Portrait_Thumb_rev.jpg" group-title="SonyLIV",Sony Ten 1 HD 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009276|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="892" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3HD_Portrait_Thumb_1.jpg" group-title="SonyLIV",Sony Ten 3 HD 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009278|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="891" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN2HD_Portrait_Thumb_new.jpg" group-title="SonyLIV",Sony Ten 2 HD 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009277|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="1772" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4HD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony Ten 4 HD 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000119186|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="525" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SIX_Portrait_Thumb.jpg" group-title="SonyLIV",Sony SIX SD 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009281|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="514" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN1_Portrait_Thumb_rev.jpg" group-title="SonyLIV",Sony Ten 1 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009280|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="523" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/SonyTEN2_Portrait_Thumb_new.jpg" group-title="SonyLIV",Sony Ten 2 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009279|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="524" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN3_Portrait_Thumb_1.jpg" group-title="SonyLIV",Sony Ten 3 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000009283|user-agent=ExoPlayer
-#EXTINF:-1 tvg-id="1000119187" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyTEN4SD_Portrait_Thumb.jpg" group-title="SonyLIV",Sony Ten 4 
-https://iptv.ambaniuncle.tk/sonyliv/sonyliv.m3u8?id=1000119187|user-agent=ExoPlayer
+
 
 #EXTINF:-1 tvg-id="sun14020" group-title="SunNXT" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1500_SunTVHD_14020_6c8b0d77-dfb1-4456-8af8-6b219c28885d.jpg", Sun TV HD
 https://iptv.ambaniuncle.tk/sunnxt/sunnxt.m3u8?id=14020
