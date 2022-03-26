@@ -12340,3 +12340,313 @@ https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=55353|user-agent=REDLINECLIENT
 
 #EXTINF:-1 tvg-id="173" group-title="Requested Channels" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Aaj%20Tak%20HD.png", AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM IN" tvg-logo="" group-title="Track&Play",9XM IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4009
+#EXTINF:-1 tvg-id="" tvg-name="& Pictures IN" tvg-logo="" group-title="Track&Play",& Pictures IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10622
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9X Tashan IN" tvg-logo="" group-title="Track&Play",9X Tashan IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10617
+#EXTINF:-1 tvg-id="abpnews.in" tvg-name="ABP News IN" tvg-logo="" group-title="Track&Play",ABP News IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3998
+#EXTINF:-1 tvg-id="AsianetMovies.in" tvg-name="Asianet Movies IN" tvg-logo="" group-title="Track&Play",Asianet Movies IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5577
+#EXTINF:-1 tvg-id="asianet.in" tvg-name="Asianet News IN" tvg-logo="" group-title="Track&Play",Asianet News IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5578
+#EXTINF:-1 tvg-id="" tvg-name="Asianet Plus IN" tvg-logo="" group-title="Track&Play",Asianet Plus IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5576
+#EXTINF:-1 tvg-id="" tvg-name="Anand IN" tvg-logo="" group-title="Track&Play",Anand IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10595
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="Aaj Tak News IN" tvg-logo="" group-title="Track&Play",Aaj Tak News IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/11294
+#EXTINF:-1 tvg-id="Aastha.in" tvg-name="Aastha TV IN" tvg-logo="" group-title="Track&Play",Aastha TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/11297
+#EXTINF:-1 tvg-id="b4umovies.in" tvg-name="B4U Movies IN" tvg-logo="http://pici.life/IN/b4u.png" group-title="Track&Play",B4U Movies IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672302
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music IN" tvg-logo="" group-title="Track&Play",B4U Music IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3993
+#EXTINF:-1 tvg-id="" tvg-name="B4u+ IN" tvg-logo="" group-title="Track&Play",B4u+ IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672304
+#EXTINF:-1 tvg-id="" tvg-name="B4u kadak IN" tvg-logo="" group-title="Track&Play",B4u kadak IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672305
+#EXTINF:-1 tvg-id="" tvg-name="ATN Bangla IN" tvg-logo="" group-title="Track&Play",ATN Bangla IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10610
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla IN" tvg-logo="" group-title="Track&Play",Movie Bangla IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10613
+#EXTINF:-1 tvg-id="" tvg-name="Bollywood Movies IN" tvg-logo="" group-title="Track&Play",Bollywood Movies IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4007
+#EXTINF:-1 tvg-id="chardiklatimetv.in" tvg-name="Chardikla Time TV IN" tvg-logo="" group-title="Track&Play",Chardikla Time TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5563
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors [UK] FHD VIP IN" tvg-logo="http://pici.life/IN/Colors.in.png" group-title="Track&Play",Colors [UK] FHD VIP IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672308
+#EXTINF:-1 tvg-id="colorshd.in" tvg-name="Colors HD IN" tvg-logo="" group-title="Track&Play",Colors HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/651513
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors [B] HD IN" tvg-logo="" group-title="Track&Play",Colors [B] HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5579
+#EXTINF:-1 tvg-id="" tvg-name="Desi Channel Punjabi IN" tvg-logo="" group-title="Track&Play",Desi Channel Punjabi IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4005
+#EXTINF:-1 tvg-id="" tvg-name="Deepto IN" tvg-logo="" group-title="Track&Play",Deepto IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10624
+#EXTINF:-1 tvg-id="dhoommusic.in" tvg-name="Dhoom Music IN" tvg-logo="" group-title="Track&Play",Dhoom Music IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10599
+#EXTINF:-1 tvg-id="indiatoday.in" tvg-name="Track&Play Today IN" tvg-logo="" group-title="Track&Play""Track&Play Today IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5561
+#EXTINF:-1 tvg-id="indiatv.in" tvg-name="Track&Play TV IN" tvg-logo="" group-title="Track&Play""Track&Play TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5562
+#EXTINF:-1 tvg-id="" tvg-name="Independent TV IN" tvg-logo="" group-title="Track&Play",Independent TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10600
+#EXTINF:-1 tvg-id="jayamax.in" tvg-name="Jaya Max USA IN" tvg-logo="" group-title="Track&Play",Jaya Max USA IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5582
+#EXTINF:-1 tvg-id="" tvg-name="Jaya Movies IN" tvg-logo="" group-title="Track&Play",Jaya Movies IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5581
+#EXTINF:-1 tvg-id="jayaplus.in" tvg-name="Jaya Plus IN" tvg-logo="" group-title="Track&Play",Jaya Plus IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5580
+#EXTINF:-1 tvg-id="janamtv.in" tvg-name="Jamuna TV IN" tvg-logo="" group-title="Track&Play",Jamuna TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10601
+#EXTINF:-1 tvg-id="jaya.in" tvg-name="Jaya TV IN" tvg-logo="" group-title="Track&Play",Jaya TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5583
+#EXTINF:-1 tvg-id="" tvg-name="KTV HD IN" tvg-logo="" group-title="Track&Play",KTV HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5560
+#EXTINF:-1 tvg-id="livingfoodz.in" tvg-name="Living Foodz IN" tvg-logo="" group-title="Track&Play",Living Foodz IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10612
+#EXTINF:-1 tvg-id="" tvg-name="MTV"Track&Play IN" tvg-logo="" group-title="Track&Play",MTV"Track&Play IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5556
+#EXTINF:-1 tvg-id="" tvg-name="M Tunes IN" tvg-logo="" group-title="Track&Play",M Tunes IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5584
+#EXTINF:-1 tvg-id="maagold.in" tvg-name="Maa Gold IN" tvg-logo="" group-title="Track&Play",Maa Gold IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5586
+#EXTINF:-1 tvg-id="maamovies.in" tvg-name="Maa Movies IN" tvg-logo="" group-title="Track&Play",Maa Movies IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5585
+#EXTINF:-1 tvg-id="moviesok.in" tvg-name="Movies OK IN" tvg-logo="" group-title="Track&Play",Movies OK IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5558
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV Beats IN" tvg-logo="" group-title="Track&Play",MTV Beats IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5557
+#EXTINF:-1 tvg-id="" tvg-name="Mohona TV IN" tvg-logo="" group-title="Track&Play",Mohona TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10587
+#EXTINF:-1 tvg-id="" tvg-name="NTV IN" tvg-logo="" group-title="Track&Play",NTV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10602
+#EXTINF:-1 tvg-id="" tvg-name="NTV Europe IN" tvg-logo="" group-title="Track&Play",NTV Europe IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10603
+#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="NDTV 24x7 HD IN" tvg-logo="" group-title="Track&Play",NDTV 24x7 HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/19491
+#EXTINF:-1 tvg-id="" tvg-name="NTV HD IN" tvg-logo="" group-title="Track&Play",NTV HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10589
+#EXTINF:-1 tvg-id="ptcchakde.in" tvg-name="PTC Chakde IN" tvg-logo="" group-title="Track&Play",PTC Chakde IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5553
+#EXTINF:-1 tvg-id="ptcnews.in" tvg-name="PTC News Punjabi IN" tvg-logo="" group-title="Track&Play",PTC News Punjabi IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5555
+#EXTINF:-1 tvg-id="ptcpunjabi.in" tvg-name="PTC Punjabi Gold IN" tvg-logo="" group-title="Track&Play",PTC Punjabi Gold IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5554
+#EXTINF:-1 tvg-id="rajdigital plus.in" tvg-name="Raj Digital Plus IN" tvg-logo="" group-title="Track&Play",Raj Digital Plus IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5551
+#EXTINF:-1 tvg-id="rajmusixtelugu.in" tvg-name="Raj Musix IN" tvg-logo="" group-title="Track&Play",Raj Musix IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5550
+#EXTINF:-1 tvg-id="rajnewstelugu.in" tvg-name="Raj News 24x7 IN" tvg-logo="" group-title="Track&Play",Raj News 24x7 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5549
+#EXTINF:-1 tvg-id="rajtv.in" tvg-name="Raj TV IN" tvg-logo="" group-title="Track&Play",Raj TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5552
+#EXTINF:-1 tvg-id="rishteycineplex.in" tvg-name="Rishtey Color IN" tvg-logo="" group-title="Track&Play",Rishtey Color IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/11295
+#EXTINF:-1 tvg-id="rishtey.in" tvg-name="Rishtey Europe IN" tvg-logo="" group-title="Track&Play",Rishtey Europe IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/11296
+#EXTINF:-1 tvg-id="" tvg-name="RTV HD IN" tvg-logo="" group-title="Track&Play",RTV HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10626
+#EXTINF:-1 tvg-id="" tvg-name="Santhora TV IN" tvg-logo="" group-title="Track&Play",Santhora TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5564
+#EXTINF:-1 tvg-id="sonysabhd.in" tvg-name="Sony Saab FHD VIP IN" tvg-logo="http://pici.life/IN/SonySab.in.png" group-title="Track&Play",Sony Saab FHD VIP IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672322
+#EXTINF:-1 tvg-id="sonysab.in" tvg-name="Sony Saab TV IN" tvg-logo="" group-title="Track&Play",Sony Saab TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3987
+#EXTINF:-1 tvg-id="sonysab.in" tvg-name="Sony Sab (UK) IN" tvg-logo="http://pici.life/IN/SonySab.in.png" group-title="Track&Play",Sony Sab (UK) IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672323
+#EXTINF:-1 tvg-id="" tvg-name="Sony Set Max FHD IN VIP" tvg-logo="http://pici.life/IN/sonytv.png" group-title="Track&Play",Sony Set Max FHD IN VIP
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672324
+#EXTINF:-1 tvg-id="sonymix.in" tvg-name="Sony MIX HD IN" tvg-logo="" group-title="Track&Play",Sony MIX HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3988
+#EXTINF:-1 tvg-id="sonymax.in" tvg-name="Sony Max IN" tvg-logo="" group-title="Track&Play",Sony Max IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3990
+#EXTINF:-1 tvg-id="sonymax2.in" tvg-name="Sony Max 2 IN" tvg-logo="" group-title="Track&Play",Sony Max 2 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3989
+#EXTINF:-1 tvg-id="sonymaxhd.in" tvg-name="Sony Max UK IN" tvg-logo="http://pici.life/IN/sonymax_2.png" group-title="Track&Play",Sony Max UK IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672321
+#EXTINF:-1 tvg-id="" tvg-name="Sony Pix HD IN" tvg-logo="" group-title="Track&Play",Sony Pix HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10607
+#EXTINF:-1 tvg-id="sonypix.in" tvg-name="Sony Pix IN" tvg-logo="" group-title="Track&Play",Sony Pix IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10606
+#EXTINF:-1 tvg-id="sony.in" tvg-name="Sony [UK] HD IN" tvg-logo="" group-title="Track&Play",Sony [UK] HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10609
+#EXTINF:-1 tvg-id="sonysix.in" tvg-name="Sony Six HD IN" tvg-logo="" group-title="Track&Play",Sony Six HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3985
+#EXTINF:-1 tvg-id="" tvg-name="Sony HD IN" tvg-logo="" group-title="Track&Play",Sony HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5574
+#EXTINF:-1 tvg-id="sony.in" tvg-name="Sony TV IN" tvg-logo="" group-title="Track&Play",Sony TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3984
+#EXTINF:-1 tvg-id="" tvg-name="Sony TV UK IN" tvg-logo="" group-title="Track&Play",Sony TV UK IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13175
+#EXTINF:-1 tvg-id="sonysix.in" tvg-name="Sony Six IN" tvg-logo="" group-title="Track&Play",Sony Six IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5548
+#EXTINF:-1 tvg-id="sonyten1.in" tvg-name="Sony Ten 1 IN" tvg-logo="http://pici.life/IN/SonyTen1.png" group-title="Track&Play",Sony Ten 1 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672325
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 HD IN" tvg-logo="http://pici.life/IN/SonyTen2.png" group-title="Track&Play",Sony Ten 2 HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672444
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 IN" tvg-logo="http://pici.life/IN/Sony_Ten_3.png" group-title="Track&Play",Sony Ten 3 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672445
+#EXTINF:-1 tvg-id="sonywah.in" tvg-name="Sony Waha FHD IN" tvg-logo="http://pici.life/IN/Sony_Waha.png" group-title="Track&Play",Sony Waha FHD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672446
+#EXTINF:-1 tvg-id="sonypal.in" tvg-name="Sony Pal FHD VIP IN" tvg-logo="" group-title="Track&Play",Sony Pal FHD VIP IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/676908
+#EXTINF:-1 tvg-id="starplushd.in" tvg-name="Star Plus HD IN" tvg-logo="http://pici.life/IN/StarPlus.in.png" group-title="Track&Play",Star Plus HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672450
+#EXTINF:-1 tvg-id="starplus.in" tvg-name="Star Plus [UK] IN" tvg-logo="" group-title="Track&Play",Star Plus [UK] IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/13174
+#EXTINF:-1 tvg-id="stargold.in" tvg-name="Star Gold HD IN" tvg-logo="" group-title="Track&Play",Star Gold HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3983
+#EXTINF:-1 tvg-id="starjalsha.in" tvg-name="Star Jalsha IN" tvg-logo="" group-title="Track&Play",Star Jalsha IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3982
+#EXTINF:-1 tvg-id="starmovies.in" tvg-name="Star Movies HD IN" tvg-logo="" group-title="Track&Play",Star Movies HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3981
+#EXTINF:-1 tvg-id="starmovieshd.in" tvg-name="Star Movies IN" tvg-logo="http://pici.life/IN/StarMovies.png" group-title="Track&Play",Star Movies IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672448
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 IN" tvg-logo="" group-title="Track&Play",Star Sports 1 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3979
+#EXTINF:-1 tvg-id="starsports2.in" tvg-name="Star Sports 2 IN" tvg-logo="" group-title="Track&Play",Star Sports 2 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/397844
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3 IN" tvg-logo="" group-title="Track&Play",Star Sports 3 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3977
+#EXTINF:-1 tvg-id="starbharat.in" tvg-name="Star Bharat IN" tvg-logo="" group-title="Track&Play",Star Bharat IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5544
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat (UK) IN" tvg-logo="http://pici.life/IN/Star_Bharat.png" group-title="Track&Play",Star Bharat (UK) IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672447
+#EXTINF:-1 tvg-id="" tvg-name="Star Vijay IN" tvg-logo="" group-title="Track&Play",Star Vijay IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5545
+#EXTINF:-1 tvg-id="sunmusic.in" tvg-name="Sun Music IN" tvg-logo="" group-title="Track&Play",Sun Music IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3975
+#EXTINF:-1 tvg-id="suntv.in" tvg-name="Sun TV IN" tvg-logo="" group-title="Track&Play",Sun TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3974
+#EXTINF:-1 tvg-id="suntv.in" tvg-name="Sun TV [US] IN" tvg-logo="" group-title="Track&Play",Sun TV [US] IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3973
+#EXTINF:-1 tvg-id="" tvg-name="Somoy News TV IN" tvg-logo="" group-title="Track&Play",Somoy News TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10605
+#EXTINF:-1 tvg-id="" tvg-name="Ten 1 HD IN" tvg-logo="" group-title="Track&Play",Ten 1 HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3972
+#EXTINF:-1 tvg-id="" tvg-name="Ten 2 HD IN" tvg-logo="" group-title="Track&Play",Ten 2 HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5589
+#EXTINF:-1 tvg-id="tencricket.in" tvg-name="Ten 3 HD IN" tvg-logo="" group-title="Track&Play",Ten 3 HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5590
+#EXTINF:-1 tvg-id="utvaction.in" tvg-name="Ten Sports IN" tvg-logo="" group-title="Track&Play",Ten Sports IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10608
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="UTV Movies HD IN" tvg-logo="" group-title="Track&Play",UTV Movies HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5542
+#EXTINF:-1 tvg-id="utvmovies.in" tvg-name="UTV Movies US IN" tvg-logo="" group-title="Track&Play",UTV Movies US IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10615
+#EXTINF:-1 tvg-id="" tvg-name="UTV Bindas IN" tvg-logo="" group-title="Track&Play",UTV Bindas IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5541
+#EXTINF:-1 tvg-id="" tvg-name="Willow IN" tvg-logo="" group-title="Track&Play",Willow IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10631
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema FHD IN" tvg-logo="" group-title="Track&Play",Zee Cinema FHD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4002
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema IN" tvg-logo="" group-title="Track&Play",Zee Cinema IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3967
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema IN" tvg-logo="" group-title="Track&Play",Zee Cinema IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3968
+#EXTINF:-1 tvg-id="zeecinema.in" tvg-name="Zee Cinema (USA) IN" tvg-logo="http://pici.life/IN/ZeeCinema.in.png" group-title="Track&Play",Zee Cinema (USA) IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672452
+#EXTINF:-1 tvg-id="" tvg-name="Zee Cinema Inter IN" tvg-logo="" group-title="Track&Play",Zee Cinema Inter IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4001
+#EXTINF:-1 tvg-id="zeeaction.in" tvg-name="Zee Action HD IN" tvg-logo="" group-title="Track&Play",Zee Action HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3971
+#EXTINF:-1 tvg-id="zeeanmolcinema.in" tvg-name="Zee Anmol Cinema IN" tvg-logo="" group-title="Track&Play",Zee Anmol Cinema IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/3970
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV HD IN" tvg-logo="http://pici.life/IN/ZeeTV.in.png" group-title="Track&Play",Zee TV HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672459
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="Zee TV IN" tvg-logo="" group-title="Track&Play",Zee TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/4000
+#EXTINF:-1 tvg-id="zeetv.in" tvg-name="Zee TV US HD IN" tvg-logo="" group-title="Track&Play",Zee TV US HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/20912
+#EXTINF:-1 tvg-id="zeetvhd.in" tvg-name="Zee TV UK IN" tvg-logo="http://pici.life/IN/ZeeTV.in.png" group-title="Track&Play",Zee TV UK IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672458
+#EXTINF:-1 tvg-id="zeebangla.in" tvg-name="Zee Bangla IN" tvg-logo="" group-title="Track&Play",Zee Bangla IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5592
+#EXTINF:-1 tvg-id="zeebusiness.in" tvg-name="Zee Business IN" tvg-logo="" group-title="Track&Play",Zee Business IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5570
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="Zee Bollywood IN" tvg-logo="" group-title="Track&Play",Zee Bollywood IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5565
+#EXTINF:-1 tvg-id="" tvg-name="Zee ETC Bollywood IN" tvg-logo="" group-title="Track&Play",Zee ETC Bollywood IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5539
+#EXTINF:-1 tvg-id="zeenews.in" tvg-name="Zee News IN" tvg-logo="http://pici.life/IN/zee-news.png" group-title="Track&Play",Zee News IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672455
+#EXTINF:-1 tvg-id="" tvg-name="Zee Punjabi IN" tvg-logo="" group-title="Track&Play",Zee Punjabi IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5571
+#EXTINF:-1 tvg-id="" tvg-name="Zee Telugu IN" tvg-logo="" group-title="Track&Play",Zee Telugu IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5593
+#EXTINF:-1 tvg-id="" tvg-name="Zee Alwan IN" tvg-logo="" group-title="Track&Play",Zee Alwan IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/10630
+#EXTINF:-1 tvg-id="" tvg-name="Zee Living HD IN" tvg-logo="http://pici.life/IN/ZEE_living.png" group-title="Track&Play",Zee Living HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672453
+#EXTINF:-1 tvg-id="" tvg-name="ZEE living (USA) IN" tvg-logo="http://pici.life/IN/ZEE_living.png" group-title="Track&Play",ZEE living (USA) IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672454
+#EXTINF:-1 tvg-id="" tvg-name="Zee Rajasthan HD IN" tvg-logo="http://pici.life/IN/Zee_Rajasthan.png" group-title="Track&Play",Zee Rajasthan HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672456
+#EXTINF:-1 tvg-id="" tvg-name="Zee Theatre HD IN" tvg-logo="http://pici.life/IN/ZeeTV.in.png" group-title="Track&Play",Zee Theatre HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672457
+#EXTINF:-1 tvg-id="zing.in" tvg-name="Zing IN" tvg-logo="" group-title="Track&Play",Zing IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5596
+#EXTINF:-1 tvg-id="zing.in" tvg-name="Zing UK IN" tvg-logo="" group-title="Track&Play",Zing UK IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5595
+#EXTINF:-1 tvg-id="zoom.in" tvg-name="Zoom IN" tvg-logo="" group-title="Track&Play",Zoom IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/5538
+#EXTINF:-1 tvg-id="" tvg-name="MTA 3 IN" tvg-logo="" group-title="Track&Play",MTA 3 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/624945
+#EXTINF:-1 tvg-id="andtvhd.in" tvg-name="&TV IN" tvg-logo="" group-title="Track&Play",&TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672296
+#EXTINF:-1 tvg-id="" tvg-name="1st"Track&Play News HD IN" tvg-logo="" group-title="Track&Play",1st"Track&Play News HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672297
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM Musci IN" tvg-logo="http://pici.life/IN/9xmmusc.png" group-title="Track&Play",9XM Musci IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672298
+#EXTINF:-1 tvg-id="" tvg-name="Aastha TV [UK] IN" tvg-logo="" group-title="Track&Play",Aastha TV [UK] IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672299
+#EXTINF:-1 tvg-id="animalplanethd.in" tvg-name="Animal Planet IN" tvg-logo="http://pici.life/IN/Animalplanet.png" group-title="Track&Play",Animal Planet IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672301
+#EXTINF:-1 tvg-id="cnbc-tv18.in" tvg-name="CNBC TV 18 IN" tvg-logo="http://pici.life/IN/CNBC18.png" group-title="Track&Play",CNBC TV 18 IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672306
+#EXTINF:-1 tvg-id="" tvg-name="DD National IN" tvg-logo="" group-title="Track&Play",DD National IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672310
+#EXTINF:-1 tvg-id="epic.in" tvg-name="Epic HD IN" tvg-logo="http://pici.life/IN/Epic.png" group-title="Track&Play",Epic HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672313
+#EXTINF:-1 tvg-id="foodfood.in" tvg-name="Food Food HD IN" tvg-logo="http://pici.life/IN/Food.png" group-title="Track&Play",Food Food HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672314
+#EXTINF:-1 tvg-id="" tvg-name="Nazrana Music HD IN" tvg-logo="" group-title="Track&Play",Nazrana Music HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672317
+#EXTINF:-1 tvg-id="ndtvindia.in" tvg-name="NDTV News HD IN" tvg-logo="" group-title="Track&Play",NDTV News HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672318
+#EXTINF:-1 tvg-id="ndtv24x7.in" tvg-name="NDTV Profit IN" tvg-logo="" group-title="Track&Play",NDTV Profit IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672319
+#EXTINF:-1 tvg-id="" tvg-name="POP Music HD IN" tvg-logo="" group-title="Track&Play",POP Music HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672320
+#EXTINF:-1 tvg-id="tlc.in" tvg-name="TLC IN" tvg-logo="http://pici.life/IN/tlc.png" group-title="Track&Play",TLC IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/672451
+#EXTINF:-1 tvg-id="" tvg-name="Vision Punjab TV FHD IN" tvg-logo="" group-title="Track&Play",Vision Punjab TV FHD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/676906
+#EXTINF:-1 tvg-id="" tvg-name="Sahara Filmy IN" tvg-logo="" group-title="Track&Play",Sahara Filmy IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/676909
+#EXTINF:-1 tvg-id="sanskartv.in" tvg-name="Sanskar TV IN" tvg-logo="" group-title="Track&Play",Sanskar TV IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690413
+#EXTINF:-1 tvg-id="" tvg-name="Zee 24 Kalak IN" tvg-logo="" group-title="Track&Play",Zee 24 Kalak IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690415
+#EXTINF:-1 tvg-id="" tvg-name="Colors Gujarati SD IN" tvg-logo="" group-title="Track&Play",Colors Gujarati SD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690416
+#EXTINF:-1 tvg-id="" tvg-name="DD Girnar IN" tvg-logo="" group-title="Track&Play",DD Girnar IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690417
+#EXTINF:-1 tvg-id="" tvg-name="Sandesh News FHD IN" tvg-logo="" group-title="Track&Play",Sandesh News FHD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690418
+#EXTINF:-1 tvg-id="" tvg-name="ABP Asmita FHD IN" tvg-logo="" group-title="Track&Play",ABP Asmita FHD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690419
+#EXTINF:-1 tvg-id="" tvg-name="Kalupur Mandir HD IN" tvg-logo="" group-title="Track&Play",Kalupur Mandir HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690420
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Bajar IN" tvg-logo="" group-title="Track&Play",CNBC Bajar IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690421
+#EXTINF:-1 tvg-id="" tvg-name="GS TV HD IN" tvg-logo="" group-title="Track&Play",GS TV HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/690422
+#EXTINF:-1 tvg-id="" tvg-name="Prime Asia HD IN" tvg-logo="" group-title="Track&Play",Prime Asia HD IN
+http://mypanel.tv:8080/iptvpoint/85g7sjaS6t/693004
