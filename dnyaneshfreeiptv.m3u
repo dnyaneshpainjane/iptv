@@ -388,6 +388,31 @@ https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-9z575356
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-9z583386
 
 
+#EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery+",Discovery Channel 
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=95
+#EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery+",Discovery Science
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=96
+#EXTINF:-1 tvg-id="dp97" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" group-title="Discovery+",TLC
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=97
+#EXTINF:-1 tvg-id="dp98" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" group-title="Discovery+",Discovery Turbo
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=98
+#EXTINF:-1 tvg-id="dp99" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery+",Animal Planet 
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=99
+#EXTINF:-1 tvg-id="dp101" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/3a1a78f6-ee48-46ff-a42a-9780d6f426e0.png" group-title="Discovery+",Investigation Discovery
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=101
+#EXTINF:-1 tvg-id="dp106" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/d187c23d-46da-4a59-8929-7534b7a01c0c.png" group-title="Discovery+",Eurosport 
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=106
+#EXTINF:-1 tvg-id="dp109" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" group-title="Discovery+",DMAX 
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=109
+#EXTINF:-1 tvg-id="dp110" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery+",TRVL Channel 
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=110
+#EXTINF:-1 tvg-id="dp111" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" group-title="Discovery+",HGTV 
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=111
+#EXTINF:-1 tvg-id="dp112" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" group-title="Discovery+",Food Network
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=112
+#EXTINF:-1 tvg-id="dp113" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/636b0db9-e298-43d3-97a2-f628986a0426.png" group-title="Discovery+",Discovery Kids 
+https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=113
+
 
 #EXTINF:-1 group-title="MX",tvg-logo="https://j2apps.s.llnwi.net/pic/8048.AzaadTV.in/en/1x1/208x208/test_pic1623389647594.jpg",Azaad TV
 https://m-c010-j2apps.s.llnwi.net/hls/8048.AzaadTV.in.m3u8
@@ -8906,31 +8931,6 @@ https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900023QJ
 #EXTINF:-1 tvg-id="INBA4900024R1" group-title="Samsung TV" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900024R1_20211217T014300CIRCLE.png_20211217014301.png", Jack Hanna
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900024R1
 
-
-#EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery+",Discovery Channel 
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=95
-#EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery+",Discovery Science
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=96
-#EXTINF:-1 tvg-id="dp97" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" group-title="Discovery+",TLC
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=97
-#EXTINF:-1 tvg-id="dp98" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" group-title="Discovery+",Discovery Turbo
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=98
-#EXTINF:-1 tvg-id="dp99" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery+",Animal Planet 
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=99
-#EXTINF:-1 tvg-id="dp101" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/3a1a78f6-ee48-46ff-a42a-9780d6f426e0.png" group-title="Discovery+",Investigation Discovery
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=101
-#EXTINF:-1 tvg-id="dp106" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/d187c23d-46da-4a59-8929-7534b7a01c0c.png" group-title="Discovery+",Eurosport 
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=106
-#EXTINF:-1 tvg-id="dp109" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" group-title="Discovery+",DMAX 
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=109
-#EXTINF:-1 tvg-id="dp110" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery+",TRVL Channel 
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=110
-#EXTINF:-1 tvg-id="dp111" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" group-title="Discovery+",HGTV 
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=111
-#EXTINF:-1 tvg-id="dp112" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" group-title="Discovery+",Food Network
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=112
-#EXTINF:-1 tvg-id="dp113" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/636b0db9-e298-43d3-97a2-f628986a0426.png" group-title="Discovery+",Discovery Kids 
-https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=113
 
 
 #EXTINF:-1 tvg-id="red47874" group-title="REDLINE INDIA" tvg-logo="http://files.rednetcontent.com/chlogo/animalplanet.png", Hindi Animal Planet World HD
