@@ -1290,6 +1290,8 @@ https://jai-shree-ram.in1.bitmana.io/discplus/4_Discovery_Turbo/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" group-title="discoveryplus" tvg-name="Investigation Discovery" tvg-logo="" ,Investigation Discovery
 https://jai-shree-ram.in1.bitmana.io/discplus/6_Investigation_Discovery/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="red48105" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Star Sports 1 HD
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=48105|user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="red48005" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/STARSPORTS1.png", Sports Star Tamil
@@ -1314,6 +1316,12 @@ https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51240|user-agent=REDLINECLIENT
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51241|user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="red51242" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png", Star Sports 2 FHD
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51242|user-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Hotstar Hindi [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/api.m3u8?lang=hin|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png", Hotstar English [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/api.m3u8?lang=eng|Referer=https://www.hotstar.com/
+
+
 
 #EXTINF:-1 tvg-id="1260084756" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9803/1119803-h-b0c2e9b12e6a" group-title="Hotstar", BB Ultimate 24x7 Stream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
