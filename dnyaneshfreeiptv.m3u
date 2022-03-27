@@ -1338,7 +1338,32 @@ https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=mar|Referer=https://w
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=guj|Referer=https://www.hotstar.com/
 #EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Bengali
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=guj|Referer=https://www.hotstar.com/
-
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AvMFVi6.png" group-title="IPL 2022", 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 • ℓινє 1
+https://playlist-localiptv.ml/Information_LIVE_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AvMFVi6.png" group-title="IPL 2022", 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 • ℓινє 2
+https://playlist-localiptv.ml/Information_LIVE_2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/AvMFVi6.png" group-title="IPL 2022", 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍 • ℓινє 3
+https://playlist-localiptv.ml/Information_LIVE_3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/h2fqPNw.png" group-title="IPL 2022", 🇱 🇮 🇻 🇪 | ℓοϲαℓ ѕροяτѕ 1
+https://playlist-localiptv.ml/LIVE_SPORTS_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/VPX8nDJ.png" group-title="IPL 2022", 🇱 🇮 🇻 🇪 | ℓοϲαℓ ѕροяτѕ 2
+https://playlist-localiptv.ml/LIVE_SPORTS_2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lunw7Ht.png" group-title="IPL 2022", 🇱 🇮 🇻 🇪 | ℓοϲαℓ ѕροяτѕ 3
+https://playlist-localiptv.ml/LIVE_SPORTS_3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/JPyYtLt.png" group-title="IPL 2022", 🇱 🇮 🇻 🇪 | ℓοϲαℓ ѕροяτѕ 4
+https://playlist-localiptv.ml/LIVE_SPORTS_4.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GDoRyy4.png" group-title="IPL 2022", 🇱 🇮 🇻 🇪 | ℓοϲαℓ ѕροяτѕ 5
+https://playlist-localiptv.ml/LIVE_SPORTS_5.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5imqbDy.png" group-title="IPL 2022", 𝐓𝐀𝐓𝐀 𝗜𝗣𝗟 • ѕροяτѕ 1
+https://playlist-localiptv.ml/TATA_IPL_CHANNEL_1.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5imqbDy.png" group-title="IPL 2022", 𝐓𝐀𝐓𝐀 𝗜𝗣𝗟 • ѕροяτѕ 2
+https://playlist-localiptv.ml/TATA_IPL_CHANNEL_2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5imqbDy.png" group-title="IPL 2022", 𝐓𝐀𝐓𝐀 𝗜𝗣𝗟 • ѕροяτѕ 3
+https://playlist-localiptv.ml/TATA_IPL_CHANNEL_3.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5imqbDy.png" group-title="IPL 2022", 𝐓𝐀𝐓𝐀 𝗜𝗣𝗟 • ѕροяτѕ 4
+https://playlist-localiptv.ml/TATA_IPL_CHANNEL_4.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/5imqbDy.png" group-title="IPL 2022", 𝐓𝐀𝐓𝐀 𝗜𝗣𝗟 • ѕροяτѕ 5
+https://playlist-localiptv.ml/TATA_IPL_CHANNEL_5.m3u8
 
 #EXTINF:-1 tvg-id="1260084756" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9803/1119803-h-b0c2e9b12e6a" group-title="Hotstar", BB Ultimate 24x7 Stream
 #KODIPROP:inputstreamaddon=inputstream.adaptive
