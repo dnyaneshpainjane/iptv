@@ -1316,27 +1316,27 @@ https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51240|user-agent=REDLINECLIENT
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51241|user-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="red51242" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png", Star Sports 2 FHD
 https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51242|user-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Hotstar Hindi [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_1.png", Hotstar Hindi
 https://iptv.ambaniuncle.tk/hotstar/samsung/api.m3u8?lang=hin|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png", Hotstar English [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png", Hotstar English
 https://iptv.ambaniuncle.tk/hotstar/samsung/api.m3u8?lang=eng|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Hindi [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Hindi
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=hin|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar English [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar English
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=eng|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Tamil [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Tamil
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=tam|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Telugu [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Telugu
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=tel|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Mal [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Mal
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=mal|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Kannada [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Kannada
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=kan|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Marathi [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Marathi
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=mar|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Gujarati [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Gujarati
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=guj|Referer=https://www.hotstar.com/
-#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Bengali [Tivimate/OTT Nav]
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Bengali
 https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=guj|Referer=https://www.hotstar.com/
 
 
