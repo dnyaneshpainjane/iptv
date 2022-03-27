@@ -1320,7 +1320,24 @@ https://iptv.ambaniuncle.tk/redline/iptv.m3u8?id=51242|user-agent=REDLINECLIENT
 https://iptv.ambaniuncle.tk/hotstar/samsung/api.m3u8?lang=hin|Referer=https://www.hotstar.com/
 #EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/star_sports_in_2.png", Hotstar English [Tivimate/OTT Nav]
 https://iptv.ambaniuncle.tk/hotstar/samsung/api.m3u8?lang=eng|Referer=https://www.hotstar.com/
-
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Hindi [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=hin|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar English [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=eng|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Tamil [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=tam|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Telugu [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=tel|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Mal [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=mal|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Kannada [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=kan|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Marathi [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=mar|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Gujarati [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=guj|Referer=https://www.hotstar.com/
+#EXTINF:-1 tvg-id="" group-title="IPL 2022" tvg-logo="", Hotstar Bengali [Tivimate/OTT Nav]
+https://iptv.ambaniuncle.tk/hotstar/samsung/auto.m3u8?lang=guj|Referer=https://www.hotstar.com/
 
 
 #EXTINF:-1 tvg-id="1260084756" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto/sources/r1/cms/prod/9803/1119803-h-b0c2e9b12e6a" group-title="Hotstar", BB Ultimate 24x7 Stream
