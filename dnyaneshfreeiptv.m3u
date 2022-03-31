@@ -9,8 +9,6 @@ https://dnyaneshpainjane.github.io/web/
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV",SONY Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
-#EXTINF:-1 group-title="SONYLIV",SONY Sab
-http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="SONYLIV",SONY Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV",SONY Max 
@@ -55,6 +53,10 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 group-title="SONYLIV",Animal Planet HD
 https://live.durbinlive.com/hls/animalplanent.m3u8
+#EXTINF:-1 group-title="SONYLIV",UTV Bindas HD
+http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/217
+
+
 
 #EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/channel_list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png", 24 Ghanta
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-24ghantatv
