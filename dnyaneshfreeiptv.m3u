@@ -8,7 +8,9 @@ https://dnyaneshpainjane.github.io/web/
 #EXTINF:-1 group-title="SONYLIV",SONY HD 
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV",SONY Sab HD
-https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8 
+https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 group-title="SONYLIV",SONY Sab
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="SONYLIV",SONY Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV",SONY Max 
