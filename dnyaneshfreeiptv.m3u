@@ -48,13 +48,12 @@ https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 #EXTINF:-1 group-title="SONYLIV",MTV BEATS HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SONYLIV",STAR Gold HD
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:-1 group-title="SONYLIV",STAR Gold 2
+http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 group-title="SONYLIV",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 group-title="SONYLIV",Animal Planet HD
-https://live.durbinlive.com/hls/animalplanent.m3u8
-#EXTINF:-1 group-title="SONYLIV",UTV Bindas HD
-http://portal.simiptv.co.uk:8080/alipajiuk/oRGQpcPAkZ/217
+
 
 
 
