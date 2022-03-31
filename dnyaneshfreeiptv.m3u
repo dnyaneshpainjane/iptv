@@ -53,10 +53,7 @@ http://live.flixhub.net/hls/stargold.m3u8
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 group-title="SONYLIV",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 group-title="SONYLIV",&pictures HD
-https://z5amshls.akamaized.net/andpicshd/tracks-v3a1/index.m3u8
-#EXTINF:-1 group-title="SONYLIV",ZEE CINEMA HD
-https://z5amshls.akamaized.net/zcinemahd/tracks-v3a1/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/channel_list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png", 24 Ghanta
