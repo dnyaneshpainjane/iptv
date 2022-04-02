@@ -478,7 +478,7 @@ https://snehapi-april.in1.bitmana.io/zeppy/tszeppy/chardiklatimetvtimet.m3u8|use
 https://snehapi-april.in1.bitmana.io/zeppy/tszeppy/132.m3u8|user-agent="techiesneh"
 #EXTINF:-1 tvg-id="0-9-channel_2132977507" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2132977507/channel_web/1170x658withlog_1071598760.png",Alpha ETC Punjabi
 https://snehapi-april.in1.bitmana.io/zeppy/tszeppy/channel_2132977507.m3u8|user-agent="techiesneh"
-#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="TSZ5 FREE Channels" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800.png",DD Punjabi
+#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800.png",DD Punjabi
 https://snehapi-april.in1.bitmana.io/zeppy/tszeppy/ddpunjabi.m3u8|user-agent="techiesneh"
 #EXTINF:-1 tvg-id="0-9-274" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_web/1170x658withlogo_212610744.png",India News Punjabi Himachal
 https://snehapi-april.in1.bitmana.io/zeppy/tszeppy/274.m3u8|user-agent="techiesneh"
