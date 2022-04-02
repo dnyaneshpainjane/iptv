@@ -47,7 +47,7 @@ https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #EXTINF:-1 group-title="SONYLIV",SONY LIVE
 https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
-#EXTINF:-1 group-title="SONYLIV",MTV BEAHD
+#EXTINF:-1 group-title="SONYLIV",MTV BEATS HD
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="SONYLIV",STAR Gold HD
 http://live.flixhub.net/hls/stargold.m3u8
@@ -1410,7 +1410,7 @@ https://snehapi-april.in1.bitmana.io/ziox/tszioxx/Ten2_HD/1200.m3u8|user-agent="
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/CNN_NEWS_18/800.m3u8|user-agent="techiesneh"
 #EXTINF:-1 tvg-id="1145" group-title="Jio" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/MTV_HD_Plus/800.m3u8|user-agent="techiesneh"
-#EXTINF:-1 tvg-id="753" group-title="Jio" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV BeaHD
+#EXTINF:-1 tvg-id="753" group-title="Jio" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV BEATS HD
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/MTV_Beats_HD/1200.m3u8|user-agent="techiesneh"
 #EXTINF:-1 tvg-id="858" group-title="Jio" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/Republic_TV/800.m3u8|user-agent="techiesneh"
@@ -2548,7 +2548,7 @@ https://snehapi-april.in1.bitmana.io/ziox/tszioxx/Colors_Bangla_SD/800.m3u8|user
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/Colors_Kannada_SD/800.m3u8|user-agent="techiesneh"
 #EXTINF:-1 tvg-id="1378" group-title="Jio" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VH1.png",VH1
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/VH1/800.m3u8|user-agent="techiesneh"
-#EXTINF:-1 tvg-id="1400" group-title="Jio" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV BeaSD
+#EXTINF:-1 tvg-id="1400" group-title="Jio" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_SD.png",MTV BEATS SD
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/MTV_Beats_SD/800.m3u8|user-agent="techiesneh"
 #EXTINF:-1 tvg-id="1478" group-title="Jio" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Akal_Academy_Group.png",Akal Academy Group
 https://snehapi-april.in1.bitmana.io/ziox/tszioxx/Akal_Academy_Group/800.m3u8|user-agent="techiesneh"
@@ -6701,7 +6701,7 @@ https://jiotv.live.cdn.jio.com/bpk-tv/Raj_Musix_BTS/output/index.mpd|user-agent=
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.ambaniuncle.tk/jiotvplus/manifest.mpd?c=Sahana_Music_BTS
 https://jiotv.live.cdn.jio.com/bpk-tv/Sahana_Music_BTS/output/index.mpd|user-agent=KAIOS
 
-#EXTINF:-1 tvg-id="753" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+ (STB)", MTV BeaHD
+#EXTINF:-1 tvg-id="753" tvg-logo="https://snoidcdnems01.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="JioTV+ (STB)", MTV BEATS HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.ambaniuncle.tk/jiotvplus/manifest.mpd?c=MTV_Beats_HD_BTS
@@ -8292,7 +8292,7 @@ https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1301
 #EXTINF:-1 tvg-id="1303" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png", Comedy Central HD
 https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1303
 
-#EXTINF:-1 tvg-id="1304" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png", MTV BeaHD
+#EXTINF:-1 tvg-id="1304" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png", MTV BEATS HD
 https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1304
 
 #EXTINF:-1 tvg-id="1305" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png", Nick Junior
@@ -8437,7 +8437,7 @@ https://iptv.ambaniuncle.tk/vootdrm/manifest.mpd?id=793930
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.ambaniuncle.tk/vootdrm/manifest.mpd?id=553911
 https://iptv.ambaniuncle.tk/vootdrm/manifest.mpd?id=553911
 
-#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Voot (DRM)",MTV BeaHD
+#EXTINF:-1 tvg-id="753" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Voot (DRM)",MTV BEATS HD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://iptv.ambaniuncle.tk/vootdrm/manifest.mpd?id=805294
 https://iptv.ambaniuncle.tk/vootdrm/manifest.mpd?id=805294
