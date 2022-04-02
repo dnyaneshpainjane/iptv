@@ -9121,19 +9121,19 @@ https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900024R1
 #EXTINF:-1 tvg-id="173" group-title="Requested Channels" tvg-logo="http://tank.tskytech.com/jumpstart/transparentImage/Aaj%20Tak%20HD.png", AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
-#EXTINF:-1 tvg-id="red47888" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png",MARATHI STAR PARVAH HD
+#EXTINF:-1 tvg-id="red47888" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png",MARATHI STAR PARVAH HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47888.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47889" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png",MARATHI ZEE TALKIES HD
+#EXTINF:-1 tvg-id="red47889" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png",MARATHI ZEE TALKIES HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47889.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47890" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png",MARATHI ZEE MARTHI HD
+#EXTINF:-1 tvg-id="red47890" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png",MARATHI ZEE MARTHI HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47890.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47891" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png",MARATHI COLORS MARATHI HD
+#EXTINF:-1 tvg-id="red47891" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png",MARATHI COLORS MARATHI HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47891.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47892" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMARATH.png",MARATHI SONY MARATHI 
+#EXTINF:-1 tvg-id="red47892" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMARATH.png",MARATHI SONY MARATHI 
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47892.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47896" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SANGEETMARAT.png",MARATHI SANGEET MARATHI
+#EXTINF:-1 tvg-id="red47896" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SANGEETMARAT.png",MARATHI SANGEET MARATHI
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47896.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red51174" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com",SHEMAROO MARATHIBANA
+#EXTINF:-1 tvg-id="red51174" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com",SHEMAROO MARATHIBANA
 https://snehapi-april.in1.bitmana.io/redbox/redindia/51174.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red51260" group-title="TS Star7 Indian - FULL Marathi" tvg-logo="http://files.rednetcontent.com",MARATHI COLORS FHD
+#EXTINF:-1 tvg-id="red51260" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com",MARATHI COLORS FHD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/51260.m3u8|user-agent="REDLINECLIENT"
