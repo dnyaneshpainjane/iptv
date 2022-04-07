@@ -3146,7 +3146,7 @@ https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1301
 #EXTINF:-1 tvg-id="1303" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png", Comedy Central HD
 https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1303
 
-#EXTINF:-1 tvg-id="1304" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png", MTV BEATS HD
+#EXTINF:-1 tvg-id="1304" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png", MTV Beats HD
 https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1304
 
 #EXTINF:-1 tvg-id="1305" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png", Nick Junior
@@ -3227,7 +3227,7 @@ https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1587
 #EXTINF:-1 tvg-id="1623" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png", Colors Kannada Cinema
 https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1623
 
-#EXTINF:-1 tvg-id="1624" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Clubbing_TV.png", Clubbing SONY
+#EXTINF:-1 tvg-id="1624" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Clubbing_TV.png", Clubbing TV
 https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1624
 
 #EXTINF:-1 tvg-id="1628" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png", Rishtey Cineplex
@@ -3235,7 +3235,6 @@ https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1628
 
 #EXTINF:-1 tvg-id="1792" group-title="Voot (HLS)" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png", Colors Cineplex Bollywood
 https://iptv.ambaniuncle.tk/voot/m3u8.m3u8?id=1792
-
 
 
 #EXTINF:-1 tvg-id="INBA4900020A5" group-title="samsung" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA4900020A5_20211217T014251CIRCLE.png_20211217014252.png", Republic TV
@@ -3258,7 +3257,7 @@ https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900009BL
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA49000168L
 #EXTINF:-1 tvg-id="INBA5100026CZ" group-title="samsung" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100026CZ_20210428T035932CIRCLE.png_20210428035932.png", FUEL TV
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA5100026CZ
-#EXTINF:-1 tvg-id="INBA5100023G0" group-title="samsung" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100023G0_20210330T012155CIRCLE.png_20210330012156.png", MAVTV MotorsporNetwork
+#EXTINF:-1 tvg-id="INBA5100023G0" group-title="samsung" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA5100023G0_20210330T012155CIRCLE.png_20210330012156.png", MAVTV Motorsports Network
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA5100023G0
 #EXTINF:-1 tvg-id="INBA49000067X" group-title="samsung" tvg-logo="https://us-image.samsungtvplus.com/stretch?url=https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/INBA49000067X_20210330T012044CIRCLE.png_20210330012045.png", InTrouble
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA49000067X
