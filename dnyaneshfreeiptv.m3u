@@ -5,21 +5,21 @@ https://dnyaneshpainjane.github.io/web/
 
 
 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SETHD1_Portrait_Thumb.jpg",SONY HD 
+#EXTINF:-1 group-title="SONYLIV",SONY HD 
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SABTVHD1_Portrait_Thumb.jpg",SONY Sab HD
+#EXTINF:-1 group-title="SONYLIV",SONY Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 group-title="SONYLIV",SONY Sab
 http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SetMAXHD_Portrait_Thumb.jpg",SONY Max HD
+#EXTINF:-1 group-title="SONYLIV",SONY Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/4867313348001.jpg",SONY Max 
+#EXTINF:-1 group-title="SONYLIV",SONY Max 
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPAL_Portrait_Thumb.jpg",SONY PAL
+#EXTINF:-1 group-title="SONYLIV",SONY PAL
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SONYMarathi1_Portrait_Thumb.jpg",SONY Marathi
+#EXTINF:-1 group-title="SONYLIV",SONY Marathi
 https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPIXHD_Portrait_Thumb.jpg",Sony Pix HD
+#EXTINF:-1 group-title="SONYLIV",Sony Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 group-title="SONYLIV",SONY Aath 
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8 
@@ -27,7 +27,7 @@ https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV",SONY WAH 
 https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/SonyPIXHD_Portrait_Thumb.jpg",SONY Pix HD
+#EXTINF:-1 group-title="SONYLIV",SONY Pix HD
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 group-title="SONYLIV",TEN 2 HD 
 https://pubads.g.doubleclick.net/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8 
@@ -39,9 +39,9 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV",TEN 1 
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/sonymax2_Portrait_Thumb.jpg",SONY Max 2 
+#EXTINF:-1 group-title="SONYLIV",SONY Max 2 
 https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="https://origin-staticv2.sonyliv.com/portrait_thumb/BBCEHD_Portrait_Thumb.jpg",SONY BBC EARTH HD
+#EXTINF:-1 group-title="SONYLIV",SONY BBC EARTH HD
 https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV",TEN 1 HD 
 https://pubads.g.doubleclick.net/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
