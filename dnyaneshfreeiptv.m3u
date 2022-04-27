@@ -390,7 +390,6 @@ https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-9z575356
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-9z583386
 
 
-
 #EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery+",Discovery Channel 
 https://iptv.ambaniuncle.tk/discoveryplus/api.m3u8?id=95
 #EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery+",Discovery Science
