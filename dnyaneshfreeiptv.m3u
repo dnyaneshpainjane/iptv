@@ -76,6 +76,23 @@ https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na
 https://raw.githubusercontent.com/benmoose39/YouTube_to_m3u/main/assets/moose_na.m3u
 
 
+#EXTINF:-1 group-title="Marathi",DD Sahyadri
+http://z5ams.akamaized.net/ddsahyadri/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Talkies
+http://z5ams.akamaized.net/zeetalkies/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Talkies HD
+http://z5ams.akamaized.net/ztalkieshd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Marathi
+http://z5ams.akamaized.net/zmarathisd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Marathi HD
+http://z5ams.akamaized.net/zmarathihd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee Yuva
+http://z5ams.akamaized.net/zyuva/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Marathi",Zee 24 Taas
+http://z5ams.akamaized.net/24taas/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Marathi",News 18 Lokmat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_5.m3u8
+
 
 #EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/channel_list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png", 24 Ghanta
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-24ghantatv
