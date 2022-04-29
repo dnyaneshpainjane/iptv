@@ -3371,16 +3371,6 @@ http://dard.out.airtime.pro:8000/dard_a
 http://103.16.47.70:7222/;stream.mp3
 #EXTINF: -1 group-title="Online Radio", 90s Superhit Live 2
 http://103.16.47.70:7444/;stream.mp3
-#EXTINF: -1 group-title="Online Radio", 9X Jalwa Tv
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XJalwa/9XJalwa.isml/9XJalwa-audio_208482_und=208000-video=877600.m3u8
-#EXTINF: -1 group-title="Online Radio", 9X Jhakaas
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xjhakaas/9Xjhakaas.isml/9Xjhakaas-audio_208482_und=208000-video=877600.m3u8
-#EXTINF: -1 group-title="Online Radio", 9XM
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF: -1 group-title="Online Radio", 9X Tashan
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9Xtashan/9Xtashan.isml/9Xtashan-audio_208482_und=208000-video=877600.m3u8
-#EXTINF: -1 group-title="Online Radio", ABP Majha
-http://mediacontent-lh.akamaihd.net/i/marathiabpnew_1@188093/index_300_av-b.m3u8
 #EXTINF: -1 group-title="Online Radio", Air Coimbatore
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio016/chunklist.m3u8
 #EXTINF: -1 group-title="Online Radio", Air FM Rainbow Mumbai
