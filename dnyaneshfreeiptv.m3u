@@ -52,6 +52,34 @@ https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 
+#EXTINF:-1 group-title="Youtube" tvg-logo="https://pbs.twimg.com/profile_images/1369214431268200453/JIj9kAeK_400x400.jpg" tvg-id="", Jai Maharashtra
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267634/ei/0gNsYu_VGq2Bir4P1NOSkAg/ip/20.225.137.253/id/9zPYbYq_EOc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC-rmlXyZgqGlvsTPPyuKcG50/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAMPihKTaH3wOMkuHnXm-HPwpGW4hbMFJhZi91ft1QGoAAiA_G3Of7lNgNGaR2kOM5QYcFtRCeTclfoWuJEJxJjHNcQ%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", Zee 24 Taas
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267634/ei/0gNsYtSeOOjclu8P14-30AI/ip/20.225.137.253/id/JhaJE7NX3AU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC2zduXsqIH8iPBGaFcsQcUdn/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALRapjHvUUq3IqE039FKYr-YpEgUNM3nEIWi3TKp1gh9AiAtyzRUnc0VCmyS7St6DCpbjn_N_XkB4n6eHTKNFYUczg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", TV9 Marathi
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267635/ei/0wNsYtzlH4KHuwLgwJ3gBw/ip/20.225.137.253/id/oRRLy76VVyA.9/source/yt_live_broadcast/requiressl/yes/tx/24190961/txs/24190960%2C24190961/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC9E8sakH1fbFCOKG2ssoOy7z/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALGIpqvkbXAjO4VPi2bQYgwme32AA7HvAGE8YZtq28VrAiA7OXh2bfGsqaxSkaj9HGQv_MYFMj7gk7VWq5Ei_MLxnA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", News18 Lokmat
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267636/ei/1ANsYqmvAomxlu8Pwq6UyAE/ip/20.225.137.253/id/VLBkNuR8FL8.1/source/yt_live_broadcast/requiressl/yes/tx/24176221/txs/24176215%2C24176221/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC0BxDustbjY7vx8XgOmGQtlw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIfMaeiZOTq0tKqsB-1ei7nhisqU5-2QV5LB-5fXZJhzQIhAPUynS5qm8jveDKsmgcqjkwpgBJQahldOqnCDspdnrdB/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", ABP MAZHA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267636/ei/1ANsYoq_IIO1lu8Pq7iziAk/ip/20.225.137.253/id/Rs3GfkHRwXA.17/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC4ez7eK_K_xhInxu1F0nY8d-/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgSQvio1N7N3kaLF_Sfpu3xZfnb3Nb-kBgnwAPTx_3LgkCIB7o8G18omcA7XwjFb7PgQq2c-o54Ykip5P0KkfrkALi/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", Saam TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267637/ei/1QNsYrflA6mU2_gPxo6_qAQ/ip/20.225.137.253/id/rw_O0pP40-4.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCzfMpyRWOCc5bximVrxaZiPX/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO2NPq506M8PlFTrxMUVaBackM-UIvnRPFuprl8wgDUJAiEA2KVwzmykYDzvdpxMLnpSxq6702s_FUifbglfovdsFL8%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", Lokshahi News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267637/ei/1QNsYpLAKceF_tcPzqO60A8/ip/20.225.137.253/id/Ov1N6iWh1iA.3/source/yt_live_broadcast/requiressl/yes/tx/24176221/txs/24176215%2C24176221/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVCyEfkLCTraUBJFa2ovB8-S_M/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOjGwmUPsDZhFL-lzVn2UABpo_fYS7CPH-h17DITQdJBAiBrQCiWfetpaBauOrlKGJNGuUWr3podOZi3tafsralTJA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="Youtube" tvg-logo="" tvg-id="", ZoomOn News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1651267638/ei/1gNsYvetCoaNjASY6LFw/ip/20.225.137.253/id/KKHurxXSkZ8.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/4ocVC2nahNrXBPcEB4Enp8si-DFt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALKk_Rsb4m9jC7BvNH9D59OwnY3ojP-yh7SKx9HTaTXaAiEAmy1Px-enH6njaPCb8cmr7JoTefuQ4lNQXEHwUDUQDFY%3D/file/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/channel_list/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02.png", 24 Ghanta
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-24ghantatv
 #EXTINF:-1 tvg-id="0-9-zeenews" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/channel_list/zeenews117058a10e260ccf453885b0b866b6efcf8c.png", Zee News
@@ -124,7 +152,7 @@ https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-bigmagic_1786965389
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-zeetvhd
 #EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png", &TV HD
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-tvhd_0
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/channel_list/1170x658withlogo551054149.png", Zee Marathi HD
+#EXTINF:-1 tvg-id="0-9-zeeYoutube" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/channel_list/1170x658withlogo551054149.png", Zee Marathi HD
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-zeemarathi
 #EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/channel_list/1170x658withlogo_361849131.png", Zee Yuva
 https://iptv.ambaniuncle.tk/zee5/zee5.m3u8?id=0-9-zeeyuva
@@ -3328,21 +3356,21 @@ https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900023QJ
 https://iptv.ambaniuncle.tk/samsung/iptv.m3u8?id=INBA4900024R1
 
 
-#EXTINF:-1 tvg-id="red47888" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png",STAR PARVAH HD
+#EXTINF:-1 tvg-id="red47888" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png",STAR PARVAH HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47888.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47889" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png",ZEE TALKIES HD
+#EXTINF:-1 tvg-id="red47889" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png",ZEE TALKIES HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47889.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47890" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png",ZEE MARTHI HD
+#EXTINF:-1 tvg-id="red47890" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png",ZEE MARTHI HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47890.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47891" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png",COLORS MARATHI HD
+#EXTINF:-1 tvg-id="red47891" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png",COLORS MARATHI HD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47891.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47892" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMARATH.png",SONY MARATHI 
+#EXTINF:-1 tvg-id="red47892" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMARATH.png",SONY MARATHI 
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47892.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red47896" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SANGEETMARAT.png",SANGEET MARATHI
+#EXTINF:-1 tvg-id="red47896" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SANGEETMARAT.png",SANGEET MARATHI
 https://snehapi-april.in1.bitmana.io/redbox/redindia/47896.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red51174" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com",SHEMAROO MARATHIBANA
+#EXTINF:-1 tvg-id="red51174" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com",SHEMAROO MARATHIBANA
 https://snehapi-april.in1.bitmana.io/redbox/redindia/51174.m3u8|user-agent="REDLINECLIENT"
-#EXTINF:-1 tvg-id="red51260" group-title="Star7-Marathi" tvg-logo="http://files.rednetcontent.com",COLORS FHD
+#EXTINF:-1 tvg-id="red51260" group-title="Star7-Youtube" tvg-logo="http://files.rednetcontent.com",COLORS FHD
 https://snehapi-april.in1.bitmana.io/redbox/redindia/51260.m3u8|user-agent="REDLINECLIENT"
 
 
