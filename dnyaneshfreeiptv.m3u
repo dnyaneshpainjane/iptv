@@ -96,7 +96,7 @@ http://localhost:8080/jiotvweb/autoq.php?c=Lokshahi_News&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" , TV9 Maharashtra
 http://localhost:8080/jiotvweb/autoq.php?c=TV9_Maharashtra&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat.png" , News18 Lokmat
-http://localhost:8080/jiotvweb/autoq.php?c=News18_Lokmat&q=800&e=junk.m3u8
+http://localhost:8080/jiotvweb/autoq.php?c=News_18_Lokmat&q=800&e=junk.m3u8
 
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" , Colors Cineplex HD
 http://localhost:8080/jiotvweb/autoq.php?c=Color_Cineplex_HD&q=1200&e=junk.m3u8
