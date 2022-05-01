@@ -4124,3 +4124,10 @@ http://prclive1.listenon.in:8888/Kannada
 #EXTINF: -1 tvg-logo="https://www.radio.pervii.com/im/3/1576317263.jpg" group-title="Online Radio", 60’s Forever - 96 kbit/s
 http://103.16.47.70:6222/stream/1/
 0
+
+
+
+
+#EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" , Colors Cineplex HD
+http://localhost:8080/jiotv-mobile/jioo.php?c=Color_Cineplex_HD&q=1200&e=junk.m3u8
+
