@@ -1123,6 +1123,8 @@ http://localhost:8080/jiotvweb/autoq.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
 
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" , Discovery HD World
 http://localhost:8080/jiotvweb/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" , Animal Planet HD World
+http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" , Discovery
 http://localhost:8080/jiotvweb/autoq.php?c=Discovery&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" , Discovery Science
@@ -1133,8 +1135,6 @@ http://localhost:8080/jiotvweb/autoq.php?c=ID&q=800&e=junk.m3u8
 http://localhost:8080/jiotvweb/autoq.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" , D Tamil
 http://localhost:8080/jiotvweb/autoq.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" , Animal Planet HD World
-http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" , Animal Planet English
 http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_English&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" , Animal Planet Hindi
