@@ -4130,4 +4130,5 @@ http://103.16.47.70:6222/stream/1/
 
 #EXTINF:-1 group-title="JIOLOCAL", Zee Cinema HD
 http://localhost:8080/jiotvweb/autoq.php?c=Zee_Cinema_HD&q=800
-
+#EXTINF:-1 group-title="JIOLOCAL", Zee Marathi HD
+http://localhost:8080/jiotvweb/autoq.php?c=Zee_Marathi_HD&q=800
