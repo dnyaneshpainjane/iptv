@@ -593,8 +593,6 @@ http://localhost:8080/jiotvweb/autoq.php?c=Lifology&q=1200&e=junk.m3u8
 http://localhost:8080/jiotvweb/autoq.php?c=MY_ZEN_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/FTV_HD.png" , FTV HD
 http://localhost:8080/jiotvweb/autoq.php?c=FTV_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" , InWild HD
-http://localhost:8080/jiotvweb/autoq.php?c=InWild_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZooMoo_HD.png" , ZooMoo HD
 http://localhost:8080/jiotvweb/autoq.php?c=ZooMoo_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Smithsonian_HD.png" , Smithsonian HD
@@ -1121,6 +1119,8 @@ http://localhost:8080/jiotvweb/autoq.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
 http://localhost:8080/jiotvweb/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" , Animal Planet HD
 http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" , InWild HD
+http://localhost:8080/jiotvweb/autoq.php?c=InWild_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" , Discovery
 http://localhost:8080/jiotvweb/autoq.php?c=Discovery&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" , Discovery Science
