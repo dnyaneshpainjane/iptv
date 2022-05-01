@@ -437,6 +437,10 @@ http://localhost:8080/jiotvweb/autoq.php?c=Discovery_Channel_Tamil&q=800&e=junk.
 http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" , Animal Planet English
 http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_English&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" , Animal Planet Hindi
+http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" , Discovery Channel Hindi
+http://localhost:8080/jiotvweb/autoq.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" , History TV18 HD
 http://localhost:8080/jiotvweb/autoq.php?c=History_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" , History TV18 HD Hindi
@@ -499,10 +503,6 @@ http://localhost:8080/jiotvweb/autoq.php?c=Zing&q=800&e=junk.m3u8
 http://localhost:8080/jiotvweb/autoq.php?c=Music_India&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png" , 9X Jalwa
 http://localhost:8080/jiotvweb/autoq.php?c=9X_Jalwa&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" , Animal Planet Hindi
-http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
-#EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" , Discovery Channel Hindi
-http://localhost:8080/jiotvweb/autoq.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" , Bflix Movies
 http://localhost:8080/jiotvweb/autoq.php?c=Bflix_Movies&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png" , Manoranjan TV
