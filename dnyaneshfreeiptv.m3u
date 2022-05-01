@@ -4128,6 +4128,6 @@ http://103.16.47.70:6222/stream/1/
 
 
 
-#EXTINF:-1 group-title="JIOLOCALL", Zee Cinema HD
-http://localhost:8585/sneh-jiotv/jioo.php?c=Zee_Cinema_HD&q=800
+#EXTINF:-1 group-title="JIOLOCAL", Zee Cinema HD
+http://localhost:8080/jiotvweb/autoq.php?c=Zee_Cinema_HD&q=800
 
