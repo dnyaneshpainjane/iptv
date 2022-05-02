@@ -54,7 +54,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" , Colors Marathi HD
 http://localhost:8080/jiotvweb/autoq.php?c=Colors_Marathi_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" , Zee Marathi HD
-http://localhost:8080/jiotvweb/autoq.php?c=Zee_Marathi_HD&q=1200&e=junk.m3u8
+http://localhost:8080/jiotvweb/autoq.php?c=Zee_marathi_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png" , Zee Marathi
 http://localhost:8080/jiotvweb/autoq.php?c=Zee_Marathi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" , ABP Majha
