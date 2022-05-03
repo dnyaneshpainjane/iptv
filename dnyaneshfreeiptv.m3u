@@ -1192,6 +1192,8 @@ https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="MX Live",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" tvg-country="IN" tvg-url="" group-title="MX Live",TV9 Maharashtra
+https://vidcdn.vidgyor.com/tv9marathi-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="8002.LokshahiNews.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8002.LokshahiNews.in/en/1x1/208x208/test_pic1602174409682.webp", Lokshahi News
 https://m-c06-j2apps.s.llnwi.net/hls/8002.LokshahiNews.in.m3u8
 #EXTINF:-1 tvg-id="7083.ZoomOnNews.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7083.ZoomOnNews.in/en/1x1/208x208/test_pic1599546034201.webp", Zoomon News
@@ -2916,8 +2918,6 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Free Dish",ZEE TV (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="TV9",TV9 Maharashtra
-https://vidcdn.vidgyor.com/tv9marathi-origin/live/playlist.m3u8
 
 #EXTINF: -1 group-title="Online Radio", & Sangam Devi
 http://ibadat.out.airtime.pro:8000/ibadat_a
