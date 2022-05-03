@@ -1879,6 +1879,8 @@ https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 #EXTINF:-1 tvg-id="7016.ABPMajha.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7016.ABPMajha.in/en/1x1/208x208/test_pic1608057169573.webp", ABP Majha
 https://m-c02-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://snoidcdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News18_Lokmat.png" tvg-country="IN" tvg-url="" group-title="MX Live",News18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="0098.DDNational.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0098.DDNational.in/en/1x1/208x208/test_pic1552392509740.jpg", DD National
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8
 #EXTINF:-1 tvg-id="0182.DDNews.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg", DD News
