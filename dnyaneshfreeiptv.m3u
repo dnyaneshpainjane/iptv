@@ -1119,8 +1119,8 @@ http://localhost:8080/jiotvweb/autoq.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
 
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" , Discovery HD
 http://localhost:8080/jiotvweb/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
-#EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" , Discovery HD
-http://localhost:8080/jiotvweb/autoq.php?c=Discovery_HD_World_Hindi&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="Discovery+" tvg-language="Hindi" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" , Discovery HD
+http://localhost:8080/jiotvweb/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" , Animal Planet HD
 http://localhost:8080/jiotvweb/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" , InWild HD
