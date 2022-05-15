@@ -2920,6 +2920,8 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 
 #EXTINF: -1 group-title="Online Radio" tvg-logo="https://bhaktisudha.co.in/wp-content/uploads/2022/05/Bhaktisudha-master-Logo-p-1.png", Bhakti Sudha
 https://stream.radiojar.com/cfqyfcspcv8uv?ver=728235
+#EXTINF: -1 group-title="Online Radio" tvg-logo="https://bhaktisudha.co.in/wp-content/uploads/2022/05/Bhaktisudha-master-Logo-p-1.png", Bhakti Sudha 2
+https://n02.radiojar.com/cfqyfcspcv8uv?ver=728235&rj-tok=AAABgMZLfxoAdvab1qDfhVncgg&rj-ttl=5
 #EXTINF: -1 group-title="Online Radio", & Sangam Devi
 http://ibadat.out.airtime.pro:8000/ibadat_a
 #EXTINF: -1 group-title="Online Radio", & Sangam Ganesh
