@@ -75,6 +75,8 @@ http://localhost:8080/JioTV/autoq.php?c=Zee_Anmol&q=800&e=junk.m3u8
 http://localhost:8080/JioTV/autoq.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" , And Pictures HD
 http://localhost:8080/JioTV/autoq.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="JIO" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" , Colors Cineplex HD
+http://localhost:8080/JioTV/autoq.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" , Zee Cinema
 http://localhost:8080/JioTV/autoq.php?c=Zee_Cinema&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" , Zee Bollywood
@@ -1192,6 +1194,8 @@ http://dnyanesh.in1.bitmana.io/live.php?c=Zee_Anmol&q=800&e=junk.m3u8
 http://dnyanesh.in1.bitmana.io/live.php?c=Zee_Cinema_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIO" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" , And Pictures HD
 http://dnyanesh.in1.bitmana.io/live.php?c=And_Pictures_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="JIO" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" , Colors Cineplex HD
+http://dnyanesh.in1.bitmana.io/live.php?c=Colors_Cineplex_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIO" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" , Zee Cinema
 http://dnyanesh.in1.bitmana.io/live.php?c=Zee_Cinema&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIO" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png" , Zee Bollywood
