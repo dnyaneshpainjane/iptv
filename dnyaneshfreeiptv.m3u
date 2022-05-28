@@ -1661,7 +1661,7 @@ http://dnyanesh.in1.bitmana.io/autoq.php?c=Sadhguru_Television
 #EXTINF:-1 tvg-id="563" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",Kaumudy TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kaumudy_TV
 
-#EXTINF:-1 tvg-id="489" group-title="Jio - Business | " tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",CNBC Tv 18
+#EXTINF:-1 tvg-id="489" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",CNBC Tv 18
 http://dnyanesh.in1.bitmana.io/autoq.php?c=CNBC_Tv_18
 
 #EXTINF:-1 tvg-id="212" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",ET Now
