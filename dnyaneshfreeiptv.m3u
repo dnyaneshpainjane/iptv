@@ -1173,16 +1173,12 @@ http://localhost:8080/JioTV/autoq.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u
 
 #EXTINF:-1 tvg-id="430" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket.png",Jio Cricket HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket
-
 #EXTINF:-1 tvg-id="1918" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket_English
-
 #EXTINF:-1 tvg-id="144" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_HD
-
 #EXTINF:-1 tvg-id="291" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_HD
-
 #EXTINF:-1 tvg-id="167" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_TV_HD
 #EXTINF:-1 tvg-id="755" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png",Colors Marathi HD
@@ -1207,997 +1203,666 @@ http://dnyanesh.in1.bitmana.io/autoq.php?c=And_Pictures_HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Cineplex_HD
 #EXTINF:-1 tvg-id="1158" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png",Colors Infinity HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Infinity_HD
-
 #EXTINF:-1 tvg-id="155" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png",Sony Six HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Six_HD
-
 #EXTINF:-1 tvg-id="383" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_NOW.png",Times NOW
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Times_NOW
-
 #EXTINF:-1 tvg-id="1906" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_Navbharat.png",Times Now Navbharat
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Times_Now_Navbharat
-
 #EXTINF:-1 tvg-id="162" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Ten 1 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ten_HD
-
 #EXTINF:-1 tvg-id="173" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aaj_Tak
-
 #EXTINF:-1 tvg-id="1155" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png",BBC Marathi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=BBC_Marathi
-
 #EXTINF:-1 tvg-id="177" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_News_India.png",ABP News India
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABP_News_India
-
 #EXTINF:-1 tvg-id="891" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Ten 2 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ten2_HD
-
 #EXTINF:-1 tvg-id="492" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",CNN NEWS 18
 http://dnyanesh.in1.bitmana.io/autoq.php?c=CNN_NEWS_18
-
 #EXTINF:-1 tvg-id="1145" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png",MTV HD Plus
 http://dnyanesh.in1.bitmana.io/autoq.php?c=MTV_HD_Plus
-
 #EXTINF:-1 tvg-id="753" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=MTV_Beats_HD
-
 #EXTINF:-1 tvg-id="858" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Republic_TV.png",Republic TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Republic_TV
-
 #EXTINF:-1 tvg-id="584" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png",Mastiii
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Mastiii
-
 #EXTINF:-1 tvg-id="545" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png",Nick Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nick_Hindi
-
 #EXTINF:-1 tvg-id="619" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Karnataka.png",TV9 Karnataka
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TV9_Karnataka
-
 #EXTINF:-1 tvg-id="559" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png",Pogo Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Pogo_Hindi
-
 #EXTINF:-1 tvg-id="636" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png",Polimer News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Polimer_News
-
 #EXTINF:-1 tvg-id="618" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",TV9 Telugu News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TV9_Telugu_News
-
 #EXTINF:-1 tvg-id="816" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png",Cartoon Network Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Cartoon_Network_Hindi
-
 #EXTINF:-1 tvg-id="463" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png",Discovery HD World
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_HD_World
-
 #EXTINF:-1 tvg-id="672" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Ananda.png",ABP Ananda
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABP_Ananda
-
 #EXTINF:-1 tvg-id="821" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",Sony BBC Earth HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_BBC_Earth_HD
-
 #EXTINF:-1 tvg-id="146" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png",History TV18 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=History_HD
-
 #EXTINF:-1 tvg-id="479" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_HD_World.png",TLC HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TLC_HD_World
-
 #EXTINF:-1 tvg-id="561" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png",Food Food
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Food_Food
-
 #EXTINF:-1 tvg-id="560" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Good_Times.png",GOOD TiMES
 http://dnyanesh.in1.bitmana.io/autoq.php?c=NDTV_Good_Times
-
 #EXTINF:-1 tvg-id="657" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Business
-
 #EXTINF:-1 tvg-id="143" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv18_Prime_HD.png",CNBC Tv18 Prime HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=CNBC_Tv18_Prime_HD
-
 #EXTINF:-1 tvg-id="259" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_Profit.png",NDTV Profit
 http://dnyanesh.in1.bitmana.io/autoq.php?c=NDTV_Profit
-
 #EXTINF:-1 tvg-id="190" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Awaaz.png",CNBC Awaaz
 http://dnyanesh.in1.bitmana.io/autoq.php?c=CNBC_Awaaz
-
 #EXTINF:-1 tvg-id="175" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha.png",Aastha
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aastha
-
 #EXTINF:-1 tvg-id="594" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Bhajan.png",Aastha Bhajan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aastha_Bhajan
-
 #EXTINF:-1 tvg-id="288" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanskar.png",Sanskar
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sanskar
-
 #EXTINF:-1 tvg-id="1433" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Science.png",India Science
 http://dnyanesh.in1.bitmana.io/autoq.php?c=India_Science
-
 #EXTINF:-1 tvg-id="980" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_01.png",Swayam Prabha 01
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_01
-
 #EXTINF:-1 tvg-id="981" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_02.png",Swayam Prabha 02
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_02
-
 #EXTINF:-1 tvg-id="982" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_03.png",Swayam Prabha 03
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_03
-
 #EXTINF:-1 tvg-id="154" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",Sony SAB
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_SAB
-
 #EXTINF:-1 tvg-id="472" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=And_TV_HD
-
 #EXTINF:-1 tvg-id="279" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png",Rishtey
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Rishtey
-
 #EXTINF:-1 tvg-id="473" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Anmol
-
 #EXTINF:-1 tvg-id="474" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Pal
-
 #EXTINF:-1 tvg-id="471" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_SAB_HD
-
 #EXTINF:-1 tvg-id="445" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi.png",Zee Marathi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Marathi
-
 #EXTINF:-1 tvg-id="757" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_HD.png",Colors Kannada HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Kannada_HD
-
 #EXTINF:-1 tvg-id="689" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kannada.png",Zee Kannada
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Kannada
-
 #EXTINF:-1 tvg-id="1157" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_HD.png",Comedy Central HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Comedy_Central_HD
-
 #EXTINF:-1 tvg-id="638" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu.png",Zee Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Telugu
-
 #EXTINF:-1 tvg-id="628" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",Zee Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Tamil
-
 #EXTINF:-1 tvg-id="196" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Gujarati.png",Colors Gujarati
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Gujarati
-
 #EXTINF:-1 tvg-id="625" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Bangla
-
 #EXTINF:-1 tvg-id="756" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bengali HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Bengali_HD
-
 #EXTINF:-1 tvg-id="481" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png",Epic
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Epic_HD
-
 #EXTINF:-1 tvg-id="414" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Yuva.png",Zee Yuva
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Yuva
-
 #EXTINF:-1 tvg-id="1171" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi.png",PTC Punjabi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=PTC_Punjabi
-
 #EXTINF:-1 tvg-id="527" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG",Investigation Discovery
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ID
-
 #EXTINF:-1 tvg-id="528" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_India.png",DD India
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_India
-
 #EXTINF:-1 tvg-id="202" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png",DD National
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_National
-
 #EXTINF:-1 tvg-id="532" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dabangg.png",Dabangg
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dabangg
-
 #EXTINF:-1 tvg-id="429" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png",Colors Tamil HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Tamil_HD
-
 #EXTINF:-1 tvg-id="536" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Madhya_Pradesh.png",DD Madhya Pradesh
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Madhya_Pradesh
-
 #EXTINF:-1 tvg-id="538" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Rajasthan_Jaipur.png",DD Rajasthan (Jaipur)
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Rajasthan_Jaipur
-
 #EXTINF:-1 tvg-id="482" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png",Colors Cineplex
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Cineplex
-
 #EXTINF:-1 tvg-id="762" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",Sony Pix HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Pix_HD
-
 #EXTINF:-1 tvg-id="289" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png",Sony Max SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Max_SD
-
 #EXTINF:-1 tvg-id="483" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony MAX2
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_MAX2
-
 #EXTINF:-1 tvg-id="484" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png",Zee Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Cinema
-
 #EXTINF:-1 tvg-id="182" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png",B4U Movies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=B4U_Movies
-
 #EXTINF:-1 tvg-id="487" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Classic
-
 #EXTINF:-1 tvg-id="486" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhojpuri_Cinema.png",Bhojpuri Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Bhojpuri_Cinema
-
 #EXTINF:-1 tvg-id="485" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Enterr_10.png",Enterr 10
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Enterr_10
-
 #EXTINF:-1 tvg-id="488" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Action
-
 #EXTINF:-1 tvg-id="413" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png",Zee Cinemalu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Cinemalu
-
 #EXTINF:-1 tvg-id="415" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol_Cinema.png",Zee Anmol Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Anmol_Cinema
-
 #EXTINF:-1 tvg-id="231" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News 18 India
 http://dnyanesh.in1.bitmana.io/autoq.php?c=IBN_7
-
 #EXTINF:-1 tvg-id="235" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_TV.png",India TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=India_TV
-
 #EXTINF:-1 tvg-id="258" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV India
 http://dnyanesh.in1.bitmana.io/autoq.php?c=NDTV_India
-
 #EXTINF:-1 tvg-id="504" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_News
-
 #EXTINF:-1 tvg-id="876" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Times_Now_HD.png",Times Now World
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Times_Now_HD
-
 #EXTINF:-1 tvg-id="255" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
 http://dnyanesh.in1.bitmana.io/autoq.php?c=NDTV_24x7
-
 #EXTINF:-1 tvg-id="629" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telugu.png",ETV Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_Telugu
-
 #EXTINF:-1 tvg-id="778" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_TV.png",Public TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Public_TV
-
 #EXTINF:-1 tvg-id="464" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/24_Ghanta_TV.png",24 Ghanta TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=24_Ghanta_TV
-
 #EXTINF:-1 tvg-id="632" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",Sakshi tv
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sakshi_tv
-
 #EXTINF:-1 tvg-id="626" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Suvarna_News.png",Suvarna News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Suvarna_News
-
 #EXTINF:-1 tvg-id="646" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",NTV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=NTV
-
 #EXTINF:-1 tvg-id="830" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png",Thanthi TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Thanthi_TV
-
 #EXTINF:-1 tvg-id="501" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_24.png",News 24
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_24
-
 #EXTINF:-1 tvg-id="938" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BTV.png",BTV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=BTV
-
 #EXTINF:-1 tvg-id="613" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Newslive.png",Newslive
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Newslive
-
 #EXTINF:-1 tvg-id="892" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ten3_HD
-
 #EXTINF:-1 tvg-id="889" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png",Jio Sports HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Sports
-
 #EXTINF:-1 tvg-id="875" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png",Eurosport HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dsports_HD
-
 #EXTINF:-1 tvg-id="1156" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png",Jio Football HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Football
-
 #EXTINF:-1 tvg-id="1160" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png",Jio Cricket 1 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket_1_HD
-
 #EXTINF:-1 tvg-id="1165" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png",Jio Football 1 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Football_1
-
 #EXTINF:-1 tvg-id="1167" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png",Jio Football 2 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Football_2
-
 #EXTINF:-1 tvg-id="1168" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png",Jio Football 3 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Football_3
-
 #EXTINF:-1 tvg-id="1169" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png",Jio Football 4 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Football_4
-
 #EXTINF:-1 tvg-id="514" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png",Ten 1
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ten_1
-
 #EXTINF:-1 tvg-id="523" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_2.png",Ten 2
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ten_2
-
 #EXTINF:-1 tvg-id="524" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_3.png",Ten 3
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ten_3
-
 #EXTINF:-1 tvg-id="525" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png",Sony Six SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Six_SD
-
 #EXTINF:-1 tvg-id="585" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zing
-
 #EXTINF:-1 tvg-id="587" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM
 http://dnyanesh.in1.bitmana.io/autoq.php?c=9XM
-
 #EXTINF:-1 tvg-id="591" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png",E 24
 http://dnyanesh.in1.bitmana.io/autoq.php?c=E_24
-
 #EXTINF:-1 tvg-id="183" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png",B4U Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=B4U_Music
-
 #EXTINF:-1 tvg-id="592" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",ZOOM
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zoom
-
 #EXTINF:-1 tvg-id="248" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png",MTV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=MTV
-
 #EXTINF:-1 tvg-id="440" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Jalwa.png",9X Jalwa
 http://dnyanesh.in1.bitmana.io/autoq.php?c=9X_Jalwa
-
 #EXTINF:-1 tvg-id="773" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Public_Music.png",Public Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Public_Music
-
 #EXTINF:-1 tvg-id="420" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png",Jaya Max
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jaya_Max
-
 #EXTINF:-1 tvg-id="741" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png",Sangeet Bhojpuri
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sangeet_Bhojpuri
-
 #EXTINF:-1 tvg-id="1189" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Music.png",PTC Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=PTC_Music
-
 #EXTINF:-1 tvg-id="740" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Bangla.png",Sangeet Bangla
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sangeet_Bangla
-
 #EXTINF:-1 tvg-id="815" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png",Sonic Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=sonic_Hindi
-
 #EXTINF:-1 tvg-id="872" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",Sony Yay Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Yay_Hindi
-
 #EXTINF:-1 tvg-id="547" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nickelodeon.png",Nickelodeon
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nickelodeon
-
 #EXTINF:-1 tvg-id="546" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",Nick Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nick_Tamil
-
 #EXTINF:-1 tvg-id="542" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",Pogo Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Pogo_Tamil
-
 #EXTINF:-1 tvg-id="1079" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",CN HD+ English
 http://dnyanesh.in1.bitmana.io/autoq.php?c=CN_HD_English
-
 #EXTINF:-1 tvg-id="817" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",Cartoon Network Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Cartoon_Network_Tamil
-
 #EXTINF:-1 tvg-id="543" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",Nick Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nick_Telugu
-
 #EXTINF:-1 tvg-id="554" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png",Discovery Kids 2
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Kids_2
-
 #EXTINF:-1 tvg-id="544" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Junior.png",Nick Junior
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nick_Junior
-
 #EXTINF:-1 tvg-id="286" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png",Animal Planet HD World
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_HD
-
 #EXTINF:-1 tvg-id="164" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png",Travel XP HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Travel_XP_HD
-
 #EXTINF:-1 tvg-id="566" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png",Animal Planet Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_Hindi
-
 #EXTINF:-1 tvg-id="575" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png",Discovery Channel Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Channel_Hindi
-
 #EXTINF:-1 tvg-id="578" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png",History TV18 HD Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=History_18_Hindi
-
 #EXTINF:-1 tvg-id="568" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png",Discovery Science
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Science
-
 #EXTINF:-1 tvg-id="871" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Events.png",Jio Events HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Events
-
 #EXTINF:-1 tvg-id="576" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",Discovery Channel Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Channel_Telugu
-
 #EXTINF:-1 tvg-id="569" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png",D Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Channel_Tamil
-
 #EXTINF:-1 tvg-id="579" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png",History TV18 HD Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=History_18_Tamil
-
 #EXTINF:-1 tvg-id="577" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",History TV18 HD Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=History_18_Telugu
-
 #EXTINF:-1 tvg-id="567" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png",Animal Planet English
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_English
-
 #EXTINF:-1 tvg-id="1073" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samara_News.png",Samara News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Samara_News
-
 #EXTINF:-1 tvg-id="573" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Channel Bengali
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Channel_Bengali
-
 #EXTINF:-1 tvg-id="814" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_Tamil.png",Travel XP Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Travel_XP_Tamil
-
 #EXTINF:-1 tvg-id="854" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png",Sony BBC Earth HD Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_BBC_Earth_HD_Telugu
-
 #EXTINF:-1 tvg-id="242" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png",Discovery
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Discovery
-
 #EXTINF:-1 tvg-id="853" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Tamil.png",Sony BBC Earth HD Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_BBC_Earth_HD_Tamil
-
 #EXTINF:-1 tvg-id="1075" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ayush_TV.png",Ayush TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ayush_TV
-
 #EXTINF:-1 tvg-id="906" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Channel.png",Desi Channel
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Desi_Channel
-
 #EXTINF:-1 tvg-id="562" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png",Travel XP HD Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Travel_XP
-
 #EXTINF:-1 tvg-id="574" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_English.png",TLC English
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TLC_English
-
 #EXTINF:-1 tvg-id="565" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_Abhiruchi
-
 #EXTINF:-1 tvg-id="571" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TLC_Hindi.png",TLC Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TLC_Hindi
-
 #EXTINF:-1 tvg-id="1201" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhguru_Television.png",Sadhguru Television HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sadhguru_Television
-
 #EXTINF:-1 tvg-id="563" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kaumudy_TV.png",Kaumudy TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kaumudy_TV
-
 #EXTINF:-1 tvg-id="489" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNBC_Tv_18.png",CNBC Tv 18
 http://dnyanesh.in1.bitmana.io/autoq.php?c=CNBC_Tv_18
-
 #EXTINF:-1 tvg-id="212" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now.png",ET Now
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ET_Now
-
 #EXTINF:-1 tvg-id="1907" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ET_Now_Swadesh.png",ET Now Swadesh
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ET_Now_Swadesh
-
 #EXTINF:-1 tvg-id="776" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",Bhakti TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Bhakti_TV
-
 #EXTINF:-1 tvg-id="829" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Sankara.png",Sri Sankara
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sri_Sankara
-
 #EXTINF:-1 tvg-id="937" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png",Sai TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=SaiTV
-
 #EXTINF:-1 tvg-id="794" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peace_of_Mind.png",Peace of Mind
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Peace_of_Mind
-
 #EXTINF:-1 tvg-id="609" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Shraddha.png",mh1 Shraddha
 http://dnyanesh.in1.bitmana.io/autoq.php?c=mh1_Shraddha
-
 #EXTINF:-1 tvg-id="886" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lakshya_TV.png",Lakshya TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Lakshya_TV
-
 #EXTINF:-1 tvg-id="598" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",Sri Venkateshwar Bhakti
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sri_Venkateshwar_Bhakti
-
 #EXTINF:-1 tvg-id="801" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_TV.png",Divya TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Divya_TV
-
 #EXTINF:-1 tvg-id="602" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Paras_tv.png",Paras tv
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Paras_tv
-
 #EXTINF:-1 tvg-id="593" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sadhna.png",Sadhna
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sadhna
-
 #EXTINF:-1 tvg-id="597" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Satsang_TV.png",Satsang TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Satsang_TV
-
 #EXTINF:-1 tvg-id="835" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Angel_TV_HD.png",Angel TV HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Angel_TV_HD
-
 #EXTINF:-1 tvg-id="772" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",CVR OM Spiritual
 http://dnyanesh.in1.bitmana.io/autoq.php?c=CVR_OM_Spiritual
-
 #EXTINF:-1 tvg-id="777" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",Aradhana TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aradhana_TV
-
 #EXTINF:-1 tvg-id="596" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jinvani_TV.png",Jinvani TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jinvani_TV
-
 #EXTINF:-1 tvg-id="1191" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Simran.png",PTC Simran
 http://dnyanesh.in1.bitmana.io/autoq.php?c=PTC_Simran
-
 #EXTINF:-1 tvg-id="828" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shubh_TV.png",Shubh TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Shubh_TV
-
 #EXTINF:-1 tvg-id="1407" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_Leela.png",Sai Leela
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sai_Leela
-
 #EXTINF:-1 tvg-id="955" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png",Hindu Dharmam
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Hindu_Dharmam
-
 #EXTINF:-1 tvg-id="607" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",Subhavartha TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Subhavartha_TV
-
 #EXTINF:-1 tvg-id="934" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png",Divya Vani
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Divya_Vani
-
 #EXTINF:-1 tvg-id="466" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arihant_TV.png",Arihant TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Arihant_TV
-
 #EXTINF:-1 tvg-id="924" group-title="JIO" tvg-language="Urdu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rujumargam_TV.png",Mercy TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Rujumargam_TV
-
 #EXTINF:-1 tvg-id="977" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",Calvary
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Calvary
-
 #EXTINF:-1 tvg-id="984" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_04.png",Swayam Prabha 04
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_04
-
 #EXTINF:-1 tvg-id="986" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_05.png",Swayam Prabha 05
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_05
-
 #EXTINF:-1 tvg-id="987" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_06.png",Swayam Prabha 06
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_06
-
 #EXTINF:-1 tvg-id="985" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_07.png",Swayam Prabha 07
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_07
-
 #EXTINF:-1 tvg-id="983" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_08.png",Swayam Prabha 08
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_08
-
 #EXTINF:-1 tvg-id="988" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_09.png",Swayam Prabha 09
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_09
-
 #EXTINF:-1 tvg-id="989" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_10.png",Swayam Prabha 10
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_10
-
 #EXTINF:-1 tvg-id="990" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_11.png",Swayam Prabha 11
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_11
-
 #EXTINF:-1 tvg-id="991" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_12.png",Swayam Prabha 12
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_12
-
 #EXTINF:-1 tvg-id="1272" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png",Jio Cricket 4 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket_4_HD
-
 #EXTINF:-1 tvg-id="992" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_13.png",Swayam Prabha 13
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_13
-
 #EXTINF:-1 tvg-id="993" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_14.png",Swayam Prabha 14
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_14
-
 #EXTINF:-1 tvg-id="995" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_15.png",Swayam Prabha 15
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_15
-
 #EXTINF:-1 tvg-id="994" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_16.png",Swayam Prabha 16
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_16
-
 #EXTINF:-1 tvg-id="996" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_17.png",Swayam Prabha 17
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_17
-
 #EXTINF:-1 tvg-id="999" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_18.png",Swayam Prabha 18
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_18
-
 #EXTINF:-1 tvg-id="401" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_19.png",Swayam Prabha 19
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_19
-
 #EXTINF:-1 tvg-id="403" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_20.png",Swayam Prabha 20
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_20
-
 #EXTINF:-1 tvg-id="997" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_21.png",Swayam Prabha 21
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_21
-
 #EXTINF:-1 tvg-id="998" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swayam_Prabha_22.png",Swayam Prabha 22
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Swayam_Prabha_22
-
 #EXTINF:-1 tvg-id="400" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_1.png",PM e Vidya 01
 http://dnyanesh.in1.bitmana.io/autoq.php?c=evidya_1
-
 #EXTINF:-1 tvg-id="402" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_2.png",PM e Vidya 02
 http://dnyanesh.in1.bitmana.io/autoq.php?c=evidya_2
-
 #EXTINF:-1 tvg-id="405" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_3.png",PM e Vidya 03
 http://dnyanesh.in1.bitmana.io/autoq.php?c=evidya_3
-
 #EXTINF:-1 tvg-id="406" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_4.png",PM e Vidya 04
 http://dnyanesh.in1.bitmana.io/autoq.php?c=evidya_4
-
 #EXTINF:-1 tvg-id="407" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_5.png",PM e Vidya 05
 http://dnyanesh.in1.bitmana.io/autoq.php?c=evidya_5
-
 #EXTINF:-1 tvg-id="408" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_6.png",PM e Vidya 06
 http://dnyanesh.in1.bitmana.io/autoq.php?c=evidya_6
-
 #EXTINF:-1 tvg-id="404" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/evidya_7.png",PM e Vidya 07
 http://dnyanesh.in1.bitmana.io/autoq.php?c=evidya_7
-
 #EXTINF:-1 tvg-id="533" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Pariwar.png",Raj Pariwar
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Raj_Pariwar
-
 #EXTINF:-1 tvg-id="539" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bihar.png",DD Bihar
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Bihar
-
 #EXTINF:-1 tvg-id="540" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Uttar_Pradesh.png",DD Uttar Pradesh
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Uttar_Pradesh
-
 #EXTINF:-1 tvg-id="419" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png",Jaya TV HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jaya_TV_HD
-
 #EXTINF:-1 tvg-id="844" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png",Mazavali Manorama HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Mazavali_Manorama_HD
-
 #EXTINF:-1 tvg-id="847" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_TV.png",MK TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=MK_TV
-
 #EXTINF:-1 tvg-id="785" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Super.png",Colors Super
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Super
-
 #EXTINF:-1 tvg-id="857" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vendhar_TV.png",Vendhar TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Vendhar_TV
-
 #EXTINF:-1 tvg-id="904" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sanjha_TV.png",Sanjha TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sanjha_TV
-
 #EXTINF:-1 tvg-id="919" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Anjan_TV.png",Anjan TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Anjan_TV
-
 #EXTINF:-1 tvg-id="951" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GarvPunjabi.png",Garv Punjabi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=GarvPunjabi
-
 #EXTINF:-1 tvg-id="959" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/JUSPunjabi.png",JUSPunjabi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=JUSPunjabi
-
 #EXTINF:-1 tvg-id="963" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Arre.png",Arre HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Arre
-
 #EXTINF:-1 tvg-id="796" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Peppers_TV.png",Peppers TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Peppers_TV
-
 #EXTINF:-1 tvg-id="722" group-title="JIO" tvg-language="Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sarthak_TV.png",Zee Odisha
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sarthak_TV
-
 #EXTINF:-1 tvg-id="634" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",Flower TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Flower_TV
-
 #EXTINF:-1 tvg-id="648" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png",Mazhavil Manorama
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Mazhavil_Manorama
-
 #EXTINF:-1 tvg-id="690" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Bangla
-
 #EXTINF:-1 tvg-id="824" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png",Puthu Yugam
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Puthu_Yugam
-
 #EXTINF:-1 tvg-id="691" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png",Saam Tv
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Saam_Tv
-
 #EXTINF:-1 tvg-id="198" group-title="JIO" tvg-language="Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Oriya.png",Colors Oriya
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Oriya
-
 #EXTINF:-1 tvg-id="765" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jonack.png",Jonack
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jonack
-
 #EXTINF:-1 tvg-id="623" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rang.png",Rang
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Rang
-
 #EXTINF:-1 tvg-id="635" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rengoni.png",Rengoni
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Rengoni
-
 #EXTINF:-1 tvg-id="692" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus.png",ETV Plus
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_Plus
-
 #EXTINF:-1 tvg-id="1146" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",Sony Marathi SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Marathi_SD
-
 #EXTINF:-1 tvg-id="695" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sahayadri.png",DD Sahayadri
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Sahayadri
-
 #EXTINF:-1 tvg-id="697" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",Sony aath
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_aath
-
 #EXTINF:-1 tvg-id="698" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png",Aakash Aath
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aakaash_bangla
-
 #EXTINF:-1 tvg-id="699" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png",DD Malayalam
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Malayalam
-
 #EXTINF:-1 tvg-id="701" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dangal.png",Dangal
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dangal
-
 #EXTINF:-1 tvg-id="702" group-title="JIO" tvg-language="Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Oriya.png",DD Oriya
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Oriya
-
 #EXTINF:-1 tvg-id="705" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png",Polimer TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Polimer_TV
-
 #EXTINF:-1 tvg-id="707" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png",Raj TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Raj_TV
-
 #EXTINF:-1 tvg-id="708" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png",Makkal TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Makkal_TV
-
 #EXTINF:-1 tvg-id="710" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",Kairali TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kairali_TV
-
 #EXTINF:-1 tvg-id="711" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Captain_tv.png",Captain tv
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Captain_tv
-
 #EXTINF:-1 tvg-id="712" group-title="JIO" tvg-language="Urdu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_urdu.png",DD urdu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_urdu
-
 #EXTINF:-1 tvg-id="706" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",DD Saptagiri
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Saptagiri
-
 #EXTINF:-1 tvg-id="713" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD9_chandana_kannada.png",DD9 chandana (kannada)
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD9_chandana_kannada
-
 #EXTINF:-1 tvg-id="714" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Girnar.png",DD Girnar
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Girnar
-
 #EXTINF:-1 tvg-id="715" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Punjabi.png",DD Punjabi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Punjabi
-
 #EXTINF:-1 tvg-id="716" group-title="JIO" tvg-language="Urdu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Kashir.png",DD Kashir
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Kashir
-
 #EXTINF:-1 tvg-id="719" group-title="JIO" tvg-language="Nepali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nepal_one.png",Nepal one
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nepal_one
-
 #EXTINF:-1 tvg-id="720" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD13_Guwahati_NE.png",DD13 Guwahati NE
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD13_Guwahati_NE
-
 #EXTINF:-1 tvg-id="723" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",Amrita TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Amrita_TV
-
 #EXTINF:-1 tvg-id="725" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_People_TV.png",Kairali News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kairali_People_TV
-
 #EXTINF:-1 tvg-id="726" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png",DD5 Podhigai
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD5_Podhigai
-
 #EXTINF:-1 tvg-id="727" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png",Vasanth TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Vasanth_TV
-
 #EXTINF:-1 tvg-id="728" group-title="JIO" tvg-language="Urdu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Salaam.png",Zee Salaam
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Salaam
-
 #EXTINF:-1 tvg-id="730" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kasturi.png",Kasturi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kasturi
-
 #EXTINF:-1 tvg-id="731" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png",Kairali WE TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kairali_WE_TV
-
 #EXTINF:-1 tvg-id="734" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",Vissa TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Vissa_TV
-
 #EXTINF:-1 tvg-id="736" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maiboli.png",Maiboli
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Maiboli
-
 #EXTINF:-1 tvg-id="1066" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQIndia.png",The Q
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TheQIndia
-
 #EXTINF:-1 tvg-id="1920" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TheQ_Kahaniyan.png",The Q Kahaniyan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TheQ_Kahaniyan
-
 #EXTINF:-1 tvg-id="1076" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Andy_Haryana.png",Andy Haryana
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Andy_Haryana
-
 #EXTINF:-1 tvg-id="1100" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dishum_TV.png",Dishum TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dishum_TV
-
 #EXTINF:-1 tvg-id="1144" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Namma_TV.png",Namma TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Namma_TV
-
 #EXTINF:-1 tvg-id="1151" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rangamanch.png",Rangamanch
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Rangamanch
-
 #EXTINF:-1 tvg-id="534" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dillagi_TV.png",Dillagi TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dillagi_TV
-
 #EXTINF:-1 tvg-id="535" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dhamaal_TV.png",Dhamaal TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dhamaal_TV
-
 #EXTINF:-1 tvg-id="153" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png",Zee Talkies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Talkies
-
 #EXTINF:-1 tvg-id="417" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png",J Movies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=J_Movies
-
 #EXTINF:-1 tvg-id="685" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee Bangla Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Bangla_Cinema
-
 #EXTINF:-1 tvg-id="252" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema.png",ETV Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_Cinema
-
 #EXTINF:-1 tvg-id="738" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Fakt_Marathi.png",Fakt Marathi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Fakt_Marathi
-
 #EXTINF:-1 tvg-id="946" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pitaara.png",Pitaara
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Pitaara
-
 #EXTINF:-1 tvg-id="809" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maha_Movies.png",Maha Movies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Maha_Movies
-
 #EXTINF:-1 tvg-id="683" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png",Raj Digital Plus
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Raj_Digital_Plus
-
 #EXTINF:-1 tvg-id="1190" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Punjabi_Gold.png",PTC Punjabi Gold 
 http://dnyanesh.in1.bitmana.io/autoq.php?c=PTC_Punjabi_Gold
-
 #EXTINF:-1 tvg-id="883" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png",Oscar Movies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Oscar_Movies
-
 #EXTINF:-1 tvg-id="908" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Indradhanu.png",Indradhanu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Indradhanu
-
 #EXTINF:-1 tvg-id="1101" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amaar_Cinema.png",Amaar Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Amaar_Cinema
-
 #EXTINF:-1 tvg-id="666" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",ABN Andhra Jyothi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABN_Andhra_Jyothi
-
 #EXTINF:-1 tvg-id="499" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png",News Nation
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_Nation
-
 #EXTINF:-1 tvg-id="718" group-title="JIO" tvg-language="Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kanak_TV.png",Kanak News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kanak_TV
-
 #EXTINF:-1 tvg-id="498" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_news.png",India news
 http://dnyanesh.in1.bitmana.io/autoq.php?c=India_news
-
 #EXTINF:-1 tvg-id="677" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png",Puthiya Thalimurai
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Puthiya_Thalimurai
-
 #EXTINF:-1 tvg-id="693" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png",News18 BIHAR
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_BIHAR
-
 #EXTINF:-1 tvg-id="923" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dighvijay_TV.png",Dighvijay TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dighvijay_TV
-
 #EXTINF:-1 tvg-id="724" group-title="JIO" tvg-language="Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Kalinga.png",Zee Kalinga
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Zee_Kalinga
-
 #EXTINF:-1 tvg-id="620" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png",News18 Gujarati
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_News_Gujarati
-
 #EXTINF:-1 tvg-id="502" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tez.png",Good News Today
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Tez
-
 #EXTINF:-1 tvg-id="180" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png",Asianet News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Asianet_News
-
 #EXTINF:-1 tvg-id="823" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png",Sony BBC Earth SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_BBC_Earth_SD
-
 #EXTINF:-1 tvg-id="653" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",News18 Kannada News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_Kannada_News
-
 #EXTINF:-1 tvg-id="673" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png",News7 Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News7_Tamil
-
 #EXTINF:-1 tvg-id="633" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DY_365.png",DY 365
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DY_365
-
 #EXTINF:-1 tvg-id="232" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png",News18 Lokmat
 http://dnyanesh.in1.bitmana.io/autoq.php?c=IBN_Lokmat
-
 #EXTINF:-1 tvg-id="647" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pratidin_News.png",Pratidin Time
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Pratidin_News
-
 #EXTINF:-1 tvg-id="616" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tv_9_Gujarat.png",Tv 9 Gujarat
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Tv_9_Gujarat
-
 #EXTINF:-1 tvg-id="531" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png",News18 RAJASTHAN
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_RAJASTHAN
-
 #EXTINF:-1 tvg-id="717" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_Bangla_News
-
 #EXTINF:-1 tvg-id="792" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_State_UK_UP.png",News State UK UP
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_State_UK_UP
-
 #EXTINF:-1 tvg-id="627" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png",News 18 Assam
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_18_Assam
-
 #EXTINF:-1 tvg-id="641" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Asmita.png",ABP Asmita
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABP_Asmita
-
 #EXTINF:-1 tvg-id="624" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prag_News.png",Prag News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Prag_News
-
 #EXTINF:-1 tvg-id="529" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png",News18 MP
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_MP
-
 #EXTINF:-1 tvg-id="770" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kashish_News.png",Kashish News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kashish_News
-
 #EXTINF:-1 tvg-id="769" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png",V6 News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=V6_News
-
 #EXTINF:-1 tvg-id="614" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",ETV Andhra pradesh
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ETV_Andhra_pradesh
-
 #EXTINF:-1 tvg-id="615" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",News 18 Tamilnadu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_18_Tamilnadu
-
 #EXTINF:-1 tvg-id="662" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manorama_News.png",Manorama News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Manorama_News
-
 #EXTINF:-1 tvg-id="780" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",Mathrubhumi News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Mathrubhumi_News
-
 #EXTINF:-1 tvg-id="493" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/India_Today.png",India Today
 http://dnyanesh.in1.bitmana.io/autoq.php?c=India_Today
-
 #EXTINF:-1 tvg-id="956" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_Kannada.png",TV 5 Kannada
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TV_5_Kannada
-
 #EXTINF:-1 tvg-id="204" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
 http://dnyanesh.in1.bitmana.io/autoq.php?c=DD_Sports
-
 #EXTINF:-1 tvg-id="845" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MK_Music.png",MK Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=MK_Music
-
 #EXTINF:-1 tvg-id="250" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png",Music India
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Music_India
-
 #EXTINF:-1 tvg-id="803" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png",Tunes 6
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Tunes_6
-
 #EXTINF:-1 tvg-id="743" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Kannada.png",Raj Music Kannada
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Raj_Music_Kannada
-
 #EXTINF:-1 tvg-id="639" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ramdhenu.png",Ramdhenu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ramdhenu
-
 #EXTINF:-1 tvg-id="748" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Musix.png",Raj Musix
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Raj_Musix
-
 #EXTINF:-1 tvg-id="1172" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_Chak_De.png",PTC Chak De
 http://dnyanesh.in1.bitmana.io/autoq.php?c=PTC_Chak_De
-
 #EXTINF:-1 tvg-id="732" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9X_Tashan.png",9X Tashan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=9X_Tashan
-
 #EXTINF:-1 tvg-id="749" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png",Sahana Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sahana_Music
-
 #EXTINF:-1 tvg-id="1188" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PTC_DHOL_TV.png",PTC DHOL TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=PTC_DHOL_TV
-
 #EXTINF:-1 tvg-id="742" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/mh1_Music.png",mh1 (Music)
 http://dnyanesh.in1.bitmana.io/autoq.php?c=mh1_Music
-
 #EXTINF:-1 tvg-id="735" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangeet_Marathi.png",Sangeet Marathi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sangeet_Marathi
-
 #EXTINF:-1 tvg-id="441" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9x_Jhakaas.png",9x Jhakaas
 http://dnyanesh.in1.bitmana.io/autoq.php?c=9x_Jhakaas
-
 #EXTINF:-1 tvg-id="903" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Only_Music.png",Only Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Only_Music
-
 #EXTINF:-1 tvg-id="905" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PBN_Music.png",PBN Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=PBN_Music
-
 #EXTINF:-1 tvg-id="737" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",Raj Music Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Raj_Music_Telugu
-
 #EXTINF:-1 tvg-id="1192" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Brit_Asia.png",Brit Asia
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Brit_Asia
-
 #EXTINF:-1 tvg-id="786" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kappa_TV.png",Kappa TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kappa_TV
 
@@ -3421,436 +3086,292 @@ http://dnyanesh.in1.bitmana.io/autoq.php?c=TV9_Bharatvarsh
 
 #EXTINF:-1 tvg-id="1252" group-title="JIO" tvg-language="Urdu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png",Tehzeeb TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Tehzeeb_TV
-
 #EXTINF:-1 tvg-id="1253" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_LIVE.png",Kolkata Live
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kolkata_Live
-
 #EXTINF:-1 tvg-id="1254" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png",Aastha Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aastha_Telugu
-
 #EXTINF:-1 tvg-id="1255" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Tamil.png",Aastha Tamil
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aastha_Tamil
-
 #EXTINF:-1 tvg-id="1256" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Kannada.png",Aastha Kannada
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aastha_Kannada
-
 #EXTINF:-1 tvg-id="1257" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Samachar.png",Surya Samachar
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Surya_Samachar
-
 #EXTINF:-1 tvg-id="1258" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Cinema.png",Surya Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Surya_Cinema
-
 #EXTINF:-1 tvg-id="1259" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhakti.png",Surya Bhakti
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Surya_Bhakti
-
 #EXTINF:-1 tvg-id="1260" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CTVN_AKD_Plus.png",Ctvn Akd Plus
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ctvn_Akd_Plus
-
 #EXTINF:-1 tvg-id="1261" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calcutta_News.png",Calcutta News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Calcutta_News
-
 #EXTINF:-1 tvg-id="1263" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Total_Tv_Haryana.png",Total Tv Haryana
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Total_Tv_Haryana
-
 #EXTINF:-1 tvg-id="1264" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png",Kolkata TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kolkata_TV
-
 #EXTINF:-1 tvg-id="1265" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Global_Sanjh.png",Global Sanjh
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sanjh_TV
-
 #EXTINF:-1 tvg-id="1266" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png",Bflix Movies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Bflix_Movies
-
 #EXTINF:-1 tvg-id="1267" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/iLove.png",iLove
 http://dnyanesh.in1.bitmana.io/autoq.php?c=iLove
-
 #EXTINF:-1 tvg-id="1268" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY Dhakad
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABZY_Dhakad
-
 #EXTINF:-1 tvg-id="1269" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY Cool
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABZY_Cool
-
 #EXTINF:-1 tvg-id="1270" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png",ABZY Movies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABZY_Movies
-
 #EXTINF:-1 tvg-id="1271" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Udupi_Krishna_Temple.png",Sh Krishna Matta Adamaru Paryaya UDUPI
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Udupi_Krishna_Temple
-
 #EXTINF:-1 tvg-id="1273" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sugran.png",Sugran
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sugran
-
 #EXTINF:-1 tvg-id="1274" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png",Studio One
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Studio_One
-
 #EXTINF:-1 tvg-id="1276" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Box_Cinema.png",Box Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Box_Cinema
-
 #EXTINF:-1 tvg-id="1277" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nireekshana_TV.png",Nireekshana TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nireekshana_TV
-
 #EXTINF:-1 tvg-id="1278" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prarthana_Bhawan.png",Prarthana Bhawan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Prarthana_Bhawan
-
 #EXTINF:-1 tvg-id="1279" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Grand.png",Manoranjan Grand
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Manoranjan_Grand
-
 #EXTINF:-1 tvg-id="1280" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_TV.png",Manoranjan TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Manoranjan_TV
-
 #EXTINF:-1 tvg-id="1281" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png",Manoranjan Movies
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Manoranjan_Movies
-
 #EXTINF:-1 tvg-id="1282" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Khusboo_TV.png",Khushboo TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Khusboo_TV
-
 #EXTINF:-1 tvg-id="1283" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hanuman_Mahavir_Temple.png",Mahavir Mandir Patna
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Hanuman_Mahavir_Temple
-
 #EXTINF:-1 tvg-id="1284" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vignesh_TV.PNG",Vignesh TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Vignesh_TV
-
 #EXTINF:-1 tvg-id="1286" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Insync.png",Insync
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Insync
-
 #EXTINF:-1 tvg-id="1287" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ANB_News.png",ANB News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ANB_News
-
 #EXTINF:-1 tvg-id="1288" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Omkareshwar_Temple.png",Shri Omkareshwar Mandir
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Omkareshwar_Temple
-
 #EXTINF:-1 tvg-id="1290" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarTell.png",Stars Tell
 http://dnyanesh.in1.bitmana.io/autoq.php?c=StarTell
-
 #EXTINF:-1 tvg-id="1291" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Sanjha.png",ABP Sanjha
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ABP_Sanjha
-
 #EXTINF:-1 tvg-id="1292" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wellness_TV.png",Wellness
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Wellness_TV
-
 #EXTINF:-1 tvg-id="1293" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Lokshahi_News.png",Lokshahi News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Lokshahi_News
-
 #EXTINF:-1 tvg-id="1294" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png",Eurosport
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dsports
-
 #EXTINF:-1 tvg-id="1295" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Kadak.png",B4U Kadak
 http://dnyanesh.in1.bitmana.io/autoq.php?c=B4U_Kadak
-
 #EXTINF:-1 tvg-id="1296" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Bhojpuri.png",B4U Bhojpuri
 http://dnyanesh.in1.bitmana.io/autoq.php?c=B4U_Bhojpuri
-
 #EXTINF:-1 tvg-id="1297" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_Bangla.png",TV Bangla
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TV_Bangla
-
 #EXTINF:-1 tvg-id="1299" group-title="JIO" tvg-language="Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Manjari_TV.png",Manjari TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Manjari_TV
-
 #EXTINF:-1 tvg-id="1315" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HHDL.png",HHDL
 http://dnyanesh.in1.bitmana.io/autoq.php?c=HHDL
-
 #EXTINF:-1 tvg-id="1316" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Temples_New.png",ISKCON Darshan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Iskon_Temples_New
-
 #EXTINF:-1 tvg-id="1317" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Patna_Sahib.png",Takht Sri Patna Sahib - Patna
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sri_Patna_Sahib
-
 #EXTINF:-1 tvg-id="1325" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_SD.png",Colors Infinity SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Infinity_SD
-
 #EXTINF:-1 tvg-id="1327" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Comedy_Central_SD.png",Comedy Central SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Comedy_Central_SD
-
 #EXTINF:-1 tvg-id="1338" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RT_TV.png",RT TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=RT_TV
-
 #EXTINF:-1 tvg-id="1393" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",Sony Wah
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Wah
-
 #EXTINF:-1 tvg-id="1396" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SD.png",Sony SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_SD
-
 #EXTINF:-1 tvg-id="1405" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NHK_World_Japan.png",NHK World Japan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=NHK_World_Japan
-
 #EXTINF:-1 tvg-id="1408" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Reporter_TV.png",Reporter TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Reporter_TV
-
 #EXTINF:-1 tvg-id="1411" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SongDew_TV.png",SongDew TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=SongDew_TV
-
 #EXTINF:-1 tvg-id="1412" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shani_Shingnapur.png",Shani Shingnapur
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Shani_Shingnapur
-
 #EXTINF:-1 tvg-id="1414" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prati_Shirdi_Saibaba.png",Prati Shirdi Saibaba
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Prati_Shirdi_Saibaba
-
 #EXTINF:-1 tvg-id="1415" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ganga_Darshan_Varanasi.png",Ganga Darshan Varanasi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ganga_Darshan_Varanasi
-
 #EXTINF:-1 tvg-id="1416" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ozar.png",Ashtavinayak Ozar
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ashtavinayak_Ozar
-
 #EXTINF:-1 tvg-id="1417" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC2.png",SVBC2
 http://dnyanesh.in1.bitmana.io/autoq.php?c=SVBC2
-
 #EXTINF:-1 tvg-id="1418" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ichhapuran_Balaji_Rajasthan.png",Ichhapuran Balaji Rajasthan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ichhapuran_Balaji_Rajasthan
-
 #EXTINF:-1 tvg-id="1419" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Iskon_Girgaon.png",Iskon Girgaon
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Iskon_Girgaon
-
 #EXTINF:-1 tvg-id="1420" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Ashtavinayak_Ranjangaon.png",Ashtavinayak Ranjangaon
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Ashtavinayak_Ranjangaon
-
 #EXTINF:-1 tvg-id="1421" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Karani_Mata_Rajasthan.png",Karani Mata Rajasthan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Karani_Mata_Rajasthan
-
 #EXTINF:-1 tvg-id="1422" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahalaxmi_Mumbai.png",Mahalaxmi Mumbai
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Mahalaxmi_Mumbai
-
 #EXTINF:-1 tvg-id="1423" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Babulnaath_Mumbai.png",Babulnaath Mumbai
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Babulnaath_Mumbai
-
 #EXTINF:-1 tvg-id="1424" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mumbadevi_Mumbai.png",Mumbadevi Mumbai
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Mumbadevi_Mumbai
-
 #EXTINF:-1 tvg-id="1425" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png",1Sports
 http://dnyanesh.in1.bitmana.io/autoq.php?c=1Sports
-
 #EXTINF:-1 tvg-id="1426" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Santvani.png",Santvani
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Santvani
-
 #EXTINF:-1 tvg-id="1427" group-title="JIO" tvg-language="Odia" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nandighosha.png",Nandighosha
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nandighosha
-
 #EXTINF:-1 tvg-id="1430" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_KIDS.png",Jio KIDS
 http://dnyanesh.in1.bitmana.io/autoq.php?c=
-
 #EXTINF:-1 tvg-id="1431" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Hindi.png",BBC News Hindi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=BBC_Hindi
-
 #EXTINF:-1 tvg-id="1432" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TIME8.png",TIME8
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TIME8
-
 #EXTINF:-1 tvg-id="1438" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Velukkudi_Discourses.png",Velukkudi Discourses
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Velukkudi_Discourses
-
 #EXTINF:-1 tvg-id="1440" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Krishna_Vani.png",Krishna Vani
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Krishna_Vani
-
 #EXTINF:-1 tvg-id="1441" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wah_Punjabi.png",Wah Punjabi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Wah_Punjabi
-
 #EXTINF:-1 tvg-id="1444" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/YTV_INDIA.png",YTV India
 http://dnyanesh.in1.bitmana.io/autoq.php?c=YTV_INDIA
-
 #EXTINF:-1 tvg-id="1450" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png",Rishtey Cineplex
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Rishtey_Cineplex
-
 #EXTINF:-1 tvg-id="1451" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/9_Bharat_Samachar.png",9 Bharat Samachar
 http://dnyanesh.in1.bitmana.io/autoq.php?c=9_Bharat_Samachar
-
 #EXTINF:-1 tvg-id="1452" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shemaroo_MarathiBana.png",Shemaroo MarathiBana
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Shemaroo_MarathiBana
-
 #EXTINF:-1 tvg-id="1453" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Balle_Balle_TV.png",Balle Balle TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Balle_Balle_TV
-
 #EXTINF:-1 tvg-id="1454" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_TV.png",Shiksha TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Shiksha_TV
-
 #EXTINF:-1 tvg-id="1455" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janapriyam_News.png",Janapriyam
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Janapriyam_News
-
 #EXTINF:-1 tvg-id="1457" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Only.png",News Only
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_Only
-
 #EXTINF:-1 tvg-id="1458" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gurkebaani.png",Gurkibani
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Gurkebaani
-
 #EXTINF:-1 tvg-id="1463" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moti_Doongri.png",Shree Ganesh - Moti Doongri Jaipur
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Moti_Doongri
-
 #EXTINF:-1 tvg-id="1464" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Daijiworld_TV_24X7.png",Daijiworld TV 24x7
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Daijiworld_TV_24X7
-
 #EXTINF:-1 tvg-id="1471" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_TV18_SD.png",History TV18 SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=History_TV18_SD
-
 #EXTINF:-1 tvg-id="1475" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST11_HD.png",TEST11 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TEST11_HD
-
 #EXTINF:-1 tvg-id="1479" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nakoda_Temple.png",Shri Jain Nakoda Parshwanath Tirth
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Nakoda_Temple
-
 #EXTINF:-1 tvg-id="1494" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhoomi_TV.png",BHOOMI 24x7
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Bhoomi_TV
-
 #EXTINF:-1 tvg-id="1514" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kannur_one.png",Kannur One
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kannur_one
-
 #EXTINF:-1 tvg-id="1515" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png",News J
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_J
-
 #EXTINF:-1 tvg-id="1525" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST13_HD.png",TEST13 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TEST13_HD
-
 #EXTINF:-1 tvg-id="1528" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Network_10.png",Network 10
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Network_10
-
 #EXTINF:-1 tvg-id="1530" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png",Sony Pix SD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sony_Pix_SD
-
 #EXTINF:-1 tvg-id="1534" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/World_Punjab.png",World  Punjabi
 http://dnyanesh.in1.bitmana.io/autoq.php?c=World_Punjab
-
 #EXTINF:-1 tvg-id="1535" group-title="JIO" tvg-language="Bhojpuri" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Bhojpuri.png",Surya Bhojpuri
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Surya_Bhojpuri
-
 #EXTINF:-1 tvg-id="1537" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/RadheKrishna_TV.png",RadheKrishna TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=RadheKrishna_TV
-
 #EXTINF:-1 tvg-id="1538" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Samachar_Today.png",Samachar Today
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Samachar_Today
-
 #EXTINF:-1 tvg-id="1539" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sangat_TV.png",Sangat TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sangat_TV
-
 #EXTINF:-1 tvg-id="1543" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subharti.png",Subharti
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Subharti
-
 #EXTINF:-1 tvg-id="1544" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Shiksha_Darshan.png",Shiksha Darshan
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Shiksha_Darshan
-
 #EXTINF:-1 tvg-id="1550" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/AB_News.png",AB News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=AB_News
-
 #EXTINF:-1 tvg-id="1555" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_First.png",News First
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_First
-
 #EXTINF:-1 tvg-id="1596" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MY_ZEN_HD.png",MY ZEN HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=MY_ZEN_HD
-
 #EXTINF:-1 tvg-id="1603" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HitsIndia_HD.png",HITS HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=HitsIndia_HD
-
 #EXTINF:-1 tvg-id="1632" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Kannada_Cinema.png",Colors Kannada Cinema
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Kannada_Cinema
-
 #EXTINF:-1 tvg-id="1763" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png",Colors Cineplex Bollywood
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Colors_Cineplex_Bollywood
-
 #EXTINF:-1 tvg-id="1780" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hoopla_Kids_TV.png",Hoopla Kidz TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Hoopla_Kids_TV
-
 #EXTINF:-1 tvg-id="1827" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_NEET.png",Aakash EduTV NEET
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aakash_EduTV_NEET
-
 #EXTINF:-1 tvg-id="1847" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Harpal_TV.png",Harpal TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Harpal_TV
-
 #EXTINF:-1 tvg-id="1850" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC.png",SVBC
 http://dnyanesh.in1.bitmana.io/autoq.php?c=SVBC
-
 #EXTINF:-1 tvg-id="1851" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aakash_EduTV_JEE.png",Aakash EduTV JEE
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aakash_EduTV_JEE
-
 #EXTINF:-1 tvg-id="1853" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News11_Bharat.png",News11 Bharat
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News11_Bharat
-
 #EXTINF:-1 tvg-id="1854" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/STV_Haryana_News.png",STV Haryana News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=STV_Haryana_News
-
 #EXTINF:-1 tvg-id="1855" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NL_TV.png",NL TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=NL_TV
-
 #EXTINF:-1 tvg-id="1856" group-title="JIO" tvg-language="Assamese" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_Assam.png",News Time Assam
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_Time_Assam
-
 #EXTINF:-1 tvg-id="1858" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC3.png",SVBC3
 http://dnyanesh.in1.bitmana.io/autoq.php?c=SVBC3
-
 #EXTINF:-1 tvg-id="1859" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SVBC4.png",SVBC4
 http://dnyanesh.in1.bitmana.io/autoq.php?c=SVBC4
-
 #EXTINF:-1 tvg-id="1868" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Punjab_Plus.png",Punjab Plus
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Punjab_Plus
-
 #EXTINF:-1 tvg-id="1869" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kenson_News.png",Kenson News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kenson_News
-
 #EXTINF:-1 tvg-id="1871" group-title="JIO" tvg-language="Punjabi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/7X_Music.png",7X Music
 http://dnyanesh.in1.bitmana.io/autoq.php?c=7X_Music
-
 #EXTINF:-1 tvg-id="1872" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dreamworks.png",DreamWorks
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Dreamworks
-
 #EXTINF:-1 tvg-id="1881" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/E_NBCU.png",E!
 http://dnyanesh.in1.bitmana.io/autoq.php?c=E_NBCU
-
 #EXTINF:-1 tvg-id="1882" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TEST15_HD.png",TEST15 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=TEST15_HD
-
 #EXTINF:-1 tvg-id="1883" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Pogo_Telugu
-
 #EXTINF:-1 tvg-id="1885" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kripa_TV.png",Kripa TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Kripa_TV
-
 #EXTINF:-1 tvg-id="1886" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sansad_TV_RajyaSabha.png",Sansad TV Rajya Sabha
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Sansad_TV_RajyaSabha
-
 #EXTINF:-1 tvg-id="1888" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jivan_TV.png",Jivan TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jivan_TV
-
 #EXTINF:-1 tvg-id="1889" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png",Jio Sports 1 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Sports_1_HD
-
 #EXTINF:-1 tvg-id="1890" group-title="JIO" tvg-language="English" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png",Jio Sports 2 HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Sports_2_HD
-
 #EXTINF:-1 tvg-id="1891" group-title="JIO" tvg-language="Bengali" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Tribe_TV.png",Tribe TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Tribe_TV
-
 #EXTINF:-1 tvg-id="1894" group-title="JIO" tvg-language="Marathi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Padhega_Bharat.png",Padhega Bharat
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Padhega_Bharat
-
 #EXTINF:-1 tvg-id="1895" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Today_24_News.png",Today 24 News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Today_24_News
-
 #EXTINF:-1 tvg-id="1896" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_Flash.png",News Flash
 http://dnyanesh.in1.bitmana.io/autoq.php?c=News_Flash
-
 #EXTINF:-1 tvg-id="1897" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pulse_24.png",Pulse 24
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Pulse_24
-
 #EXTINF:-1 tvg-id="1898" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/GBN24.png",GBN24
 http://dnyanesh.in1.bitmana.io/autoq.php?c=GBN24
-
 #EXTINF:-1 tvg-id="1899" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VK_News.png",VK News
 http://dnyanesh.in1.bitmana.io/autoq.php?c=VK_News
-
 #EXTINF:-1 tvg-id="1900" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ENB.png",Express News Bharat
 http://dnyanesh.in1.bitmana.io/autoq.php?c=ENB
-
 #EXTINF:-1 tvg-id="1901" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adhyatam_TV.png",Adhyatam TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Adhyatam_TV
-
 #EXTINF:-1 tvg-id="1903" group-title="JIO" tvg-language="Gujarati" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Ki_Baat.png",Aaj Ki Baat Gujarati
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Aaj_Ki_Baat
-
 #EXTINF:-1 tvg-id="1919" group-title="JIO" tvg-language="Malayalam" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Namasthe_TV.png",Namasthe TV
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Namasthe_TV
-
 #EXTINF:-1 tvg-id="438" group-title="JIO" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Hindi.png",Jio Cricket Hindi HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket_Hindi
-
 #EXTINF:-1 tvg-id="431" group-title="JIO" tvg-language="Tamil" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Tamil.png",Jio Cricket Tamil HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket_Tamil
-
 #EXTINF:-1 tvg-id="432" group-title="JIO" tvg-language="Telugu" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Telugu.png",Jio Cricket Telugu HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket_Telugu
-
 #EXTINF:-1 tvg-id="433" group-title="JIO" tvg-language="Kannada" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_Kannada.png",Jio Cricket Kannada HD
 http://dnyanesh.in1.bitmana.io/autoq.php?c=Jio_Cricket_Kannada
 
