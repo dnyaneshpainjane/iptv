@@ -51,6 +51,19 @@ https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Aaj_tak_logo.png",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Star",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="Star",STAR GOLD HD 
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Star",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1" tvg-logo="" group-title="Star",STAR SPORTS HD 1
+http://182.50.65.213:8888/udp/239.239.0.4:3001/index.m3u8
+commit44
+
+
+
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" , Colors Marathi HD
 http://localhost:8080/JioTV/autoq.php?c=Colors_Marathi_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" , Zee Marathi HD
