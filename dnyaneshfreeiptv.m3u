@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="Dnyanesh Playlist", Dnyanesh Playlist
 https://dnyaneshpainjane.github.io/web/
 
-
+################################################################## SONYLIV ###############################################################################################
 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SONY HD 
 https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8 
@@ -52,6 +52,8 @@ https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 
 
+################################################################## Star ###############################################################################################
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Star",STAR BHARAT HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="Star",STAR GOLD HD 
@@ -63,6 +65,7 @@ http://182.50.65.213:8888/udp/239.239.0.4:3001/index.m3u8
 commit44
 
 
+################################################################## JIOLOCAL ###############################################################################################
 
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" , Colors Marathi HD
 http://localhost:8080/JioTV/autoq.php?c=Colors_Marathi_HD&q=1200&e=junk.m3u8
@@ -1129,6 +1132,7 @@ http://localhost:8080/JioTV/autoq.php?c=SET_MAX&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" , Sony BBC Earth SD
 http://localhost:8080/JioTV/autoq.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
 
+################################################################## Discovery+ ###############################################################################################
 
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" , Discovery HD
 http://localhost:8080/JioTV/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
