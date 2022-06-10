@@ -60,10 +60,6 @@ http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Star",STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR SPORTS HD 1" tvg-logo="" group-title="Star",STAR SPORTS HD 1
-http://182.50.65.213:8888/udp/239.239.0.4:3001/index.m3u8
-#EXTINF:-1 group-title="Star" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",MTV Beats HD
-https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 
 
 ################################################################## JIOLOCAL ###############################################################################################
