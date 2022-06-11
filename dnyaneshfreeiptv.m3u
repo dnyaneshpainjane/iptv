@@ -1132,55 +1132,55 @@ http://localhost:8080/JioTV/autoq.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
 ################################################################## Discovery+ ###############################################################################################
 
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" , Discovery HD
-http://localhost:8080/JioTV/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" , Animal Planet HD
-http://localhost:8080/JioTV/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" , InWild HD
-http://localhost:8080/JioTV/autoq.php?c=InWild_HD&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=InWild_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" , Discovery
-http://localhost:8080/JioTV/autoq.php?c=Discovery&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" , Discovery Science
-http://localhost:8080/JioTV/autoq.php?c=Discovery_Science&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Science&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ID.PNG" , Investigation Discovery
-http://localhost:8080/JioTV/autoq.php?c=ID&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=ID&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Turbo.png" , Discovery Turbo
-http://localhost:8080/JioTV/autoq.php?c=Discovery_Turbo&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png" , D Tamil
-http://localhost:8080/JioTV/autoq.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Channel_Tamil&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png" , Animal Planet English
-http://localhost:8080/JioTV/autoq.php?c=Animal_Planet_English&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_English&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" , Animal Planet Hindi
-http://localhost:8080/JioTV/autoq.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" , Discovery Channel Hindi
-http://localhost:8080/JioTV/autoq.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_HD.png" , History TV18 HD
-http://localhost:8080/JioTV/autoq.php?c=History_HD&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=History_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" , History TV18 HD Hindi
-http://localhost:8080/JioTV/autoq.php?c=History_18_Hindi&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=History_18_Hindi&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" , Discovery Kids 2
-http://localhost:8080/JioTV/autoq.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Kids_2&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" , Sony BBC Earth HD
-http://localhost:8080/JioTV/autoq.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Sony_BBC_Earth_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png" , History TV18 HD Telugu
-http://localhost:8080/JioTV/autoq.php?c=History_18_Telugu&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=History_18_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_Telugu.png" , Sony BBC Earth HD Telugu
-http://localhost:8080/JioTV/autoq.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Sony_BBC_Earth_HD_Telugu&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png" , Discovery Channel Telugu
-http://localhost:8080/JioTV/autoq.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_Channel_Telugu&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD_English.png" , Sony BBC Earth HD English
-http://localhost:8080/JioTV/autoq.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Sony_BBC_Earth_HD_English&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" , Travel XP HD
-http://localhost:8080/JioTV/autoq.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV_Teacher.png" , TV Teacher
-http://localhost:8080/JioTV/autoq.php?c=TV_Teacher&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=TV_Teacher&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" , Travel XP HD Hindi
-http://localhost:8080/JioTV/autoq.php?c=Travel_XP&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Travel_XP&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Food_Food.png" , Food Food
-http://localhost:8080/JioTV/autoq.php?c=Food_Food&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Food_Food&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Care_World.png" , Care World
-http://localhost:8080/JioTV/autoq.php?c=Care_World&q=800&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Care_World&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD_Tamil.png" , Animal Planet HD Tamil
-http://localhost:8080/JioTV/autoq.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
+http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_HD_Tamil&q=1200&e=junk.m3u8
 
 
 
