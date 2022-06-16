@@ -48,8 +48,7 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="https://www.apkmirror.com/wp-content/uploads/2021/03/45/604ae082a4bfc.png",SONY LIVE
 https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 
-#EXTINF:-1 group-title="SONYLIV" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Aaj_tak_logo.png",AAJ TAK HD
-https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
 
 
 ################################################################## Star ###############################################################################################
@@ -3229,6 +3228,8 @@ https://m-c06-j2apps.s.llnwi.net/hls/7083.ZoomOnNews.in.m3u8
 https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in.m3u8
 #EXTINF:-1 tvg-id="7014.ABPNews.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7014.ABPNews.in/en/1x1/208x208/test_pic1608057116851.webp", ABP News
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
+#EXTINF:-1 group-title="MX Live" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Aaj_tak_logo.png",AAJ TAK HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="7017.ABPGanga.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7017.ABPGanga.in/en/1x1/208x208/test_pic1608057289870.webp", ABP Ganga
 https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Free Dish",NEWS 18
