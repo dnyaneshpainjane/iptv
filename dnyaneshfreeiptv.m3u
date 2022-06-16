@@ -3232,9 +3232,9 @@ https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-id="7017.ABPGanga.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7017.ABPGanga.in/en/1x1/208x208/test_pic1608057289870.webp", ABP Ganga
 https://m-c02-j2apps.s.llnwi.net/hls/7017.ABPGanga.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Free Dish",NEWS 18
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="MX Live",NEWS 18
 https://vootlive-i.akamaihd.net/hls/live/799896/cnnnews18voot/master_5.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="Free Dish",NEWS 18 India
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="IN" tvg-url="" group-title="MX Live",NEWS 18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="0380.NewsX.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0380.NewsX.in/en/1x1/208x208/test_pic1552315785886.jpg", NewsX
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
