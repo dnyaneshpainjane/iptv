@@ -3986,9 +3986,9 @@ http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_HD_World&q=1200&e=ju
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" , Animal Planet HD
 http://103.99.249.107/play/a015
 http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
-#EXTINF:-1 group-title="Discovery+" ,National Geo HD
+#EXTINF:-1 group-title="Discovery+" tvg-logo="https://i.imgur.com/m7Cl2M9.png",National Geo HD
 http://103.99.249.107/play/a00n
-#EXTINF:-1 group-title="Discovery+" ,Nat Geo Wild HD
+#EXTINF:-1 group-title="Discovery+" tvg-logo="https://i.imgur.com/m7Cl2M9.png",Nat Geo Wild HD
 http://103.99.249.107/play/a008
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" , InWild HD
 http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=InWild_HD&q=1200&e=junk.m3u8
