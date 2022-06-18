@@ -3981,9 +3981,15 @@ http://ranapkz5.1.mywebsites.link/z5ranapk.php?c=0-9-9z583539
 ################################################################## Discovery+ ###############################################################################################
 
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" , Discovery HD
+http://103.99.249.107/play/a00m
 http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Discovery_HD_World&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_HD.png" , Animal Planet HD
+http://103.99.249.107/play/a015
 http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_HD&q=1200&e=junk.m3u8
+#EXTINF:-1 group-title="Discovery+" ,National Geo HD
+http://103.99.249.107/play/a00n
+#EXTINF:-1 group-title="Discovery+" ,Nat Geo Wild HD
+http://103.99.249.107/play/a008
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/InWild_HD.png" , InWild HD
 http://10june-dnyanesh.in1.bitmana.io/autoq.php?c=InWild_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 group-title="Discovery+" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery.png" , Discovery
