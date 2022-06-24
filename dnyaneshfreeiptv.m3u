@@ -58,7 +58,7 @@ https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Star",STAR BHARAT HD
 http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" status="error" group-title="Star", Star Gold HD
-http://103.55.144.46/hls/stargold.m3u8
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0fh0PU.png" status="error" group-title="Star", Star Gold2
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="Star",STAR GOLD HD 
