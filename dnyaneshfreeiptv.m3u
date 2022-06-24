@@ -5186,9 +5186,9 @@ http://ranapk-star7.de1.bitmana.io/playx.php?id=54885&e=.m3u8
 #EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery++",Discovery Channel HD
 http://103.179.246.243:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="dp99" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",Animal Planet HD
-http://103.179.246.243:8000/play/a011/index.m3u8
+http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-id="dp100" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",National Geographic HD
-http://103.179.246.243:8000/play/a00x/index.m3u8
+http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 tvg-id="dp100" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",Nat Geo Wild HD
 http://103.179.246.243:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery++",Discovery Science
