@@ -66,9 +66,9 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Star",STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="Star",STAR PRAVAH HD
-http://103.179.246.243:8000/play/a045/index.m3u8
+http://live.geoiptv.org:8880/live/86869915/919108446769/588086.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD" tvg-logo="" group-title="Star",Zee Talkies HD
-http://103.179.246.243:8000/play/a04a/index.m3u8
+http://live.geoiptv.org:8880/live/86869915/919108446769/587439.ts
 
 
 
@@ -5190,6 +5190,7 @@ http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-id="dp100" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",National Geographic HD
 http://103.55.144.46/hls/ngohd.m3u8
 #EXTINF:-1 tvg-id="dp100" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",Nat Geo Wild HD
+http://live.geoiptv.org:8880/live/86869915/919108446769/547645.ts
 http://103.179.246.243:8000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery++",Discovery Science
 http://103.179.246.243:8000/play/a01k/index.m3u8
