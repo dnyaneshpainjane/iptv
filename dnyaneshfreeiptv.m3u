@@ -2714,27 +2714,27 @@ http://24-june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_HD_Tamil&q=1200
 
 ################################################################## Star7 ###############################################################################################
 
-#EXTINF:50, MARATHI STAR PARVAH HD
+#EXTINF:50, STAR PARVAH HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=47888
-#EXTINF:0 group-title="Star7" , MARATHI ZEE TALKIES HD
+#EXTINF:0 group-title="Star7" , ZEE TALKIES HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=47889
-#EXTINF:0 group-title="Star7" , MARATHI ZEE MARTHI HD
+#EXTINF:0 group-title="Star7" , ZEE MARTHI HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=47890
-#EXTINF:0 group-title="Star7" , MARATHI COLORS MARATHI HD
+#EXTINF:0 group-title="Star7" , COLORS MARATHI HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=47891
-#EXTINF:0 group-title="Star7" , MARATHI SONY MARATHI 
+#EXTINF:0 group-title="Star7" , SONY MARATHI 
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=47892
-#EXTINF:0 group-title="Star7" , MARATHI SANGEET MARATHI
+#EXTINF:0 group-title="Star7" , SANGEET MARATHI
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=47896
@@ -2742,7 +2742,7 @@ http://ranapk.cf/api/star7x.php?id=47896
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=51174
-#EXTINF:0 group-title="Star7" , MARATHI COLORS FHD
+#EXTINF:0 group-title="Star7" , COLORS FHD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=51260
