@@ -2714,7 +2714,7 @@ http://24-june-dnyanesh.in1.bitmana.io/autoq.php?c=Animal_Planet_HD_Tamil&q=1200
 
 ################################################################## Star7 ###############################################################################################
 
-#EXTINF:50, STAR PARVAH HD
+#EXTINF:0 group-title="Star7" , STAR PARVAH HD
 #EXTVLCOPT:http-user-agent=REDLINECLIENT
 #EXTVLCOPT:network-caching=1000
 http://ranapk.cf/api/star7x.php?id=47888
