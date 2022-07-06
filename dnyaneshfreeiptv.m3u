@@ -63,12 +63,16 @@ http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="Star",STAR GOLD HD 
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD select" tvg-logo="" group-title="Star",STAR GOLD SELECT
+http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Star",STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="Star",STAR PRAVAH HD
 http://live.geoiptv.org:8880/live/86869915/919108446769/588086.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD" tvg-logo="" group-title="Star",Zee Talkies HD
 http://live.geoiptv.org:8880/live/86869915/919108446769/587439.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV BEATS HD " tvg-logo="https://i.imgur.com/MU7x0QZ.png" group-title="Star",MTV BEATS HD
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 
 
