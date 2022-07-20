@@ -12,7 +12,7 @@ https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",SONY Sab HD
 https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png",SONY Sab
-http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8
+http://103.72.179.30:1935/GECHindi/SONY_SAB.stream_720p/Playlist.m3u8 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" ,SONY Max HD
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8 
 #EXTINF:-1 group-title="SONYLIV" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/SET_MAX.png" ,SONY Max 
@@ -68,7 +68,7 @@ http://208.86.19.13:81/709.stream/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Star",STAR PLUS HD
 http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="Star",STAR PRAVAH HD
-http://live.geoiptv.org:8880/live/86869915/919108446769/588086.ts
+http://31.172.87.51:2200/R-EX/MARATHI_STAR_PARVAH_HD-in/index.m3u8?token=RED_-1U1EH3-b2sfGl7nOUnJqg==,1657797583.9359072311|User-agent=REDLINECLIENT
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD" tvg-logo="" group-title="Star",Zee Talkies HD
 http://live.geoiptv.org:8880/live/86869915/919108446769/587439.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV BEATS HD " tvg-logo="https://i.imgur.com/MU7x0QZ.png" group-title="Star",MTV BEATS HD
@@ -1897,7 +1897,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/3240.NewsIndia24X7.in.m3u8
 #EXTINF:-1 tvg-id="1604.JantaTV.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/1604.JantaTV.in/en/1x1/208x208/test_pic1535464082702.jpg", Janta TV
 https://m-c18-j2apps.s.llnwi.net/hls/1604.JantaTV.in.m3u8
 #EXTINF:-1 tvg-id="7016.ABPMajha.in" group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/7016.ABPMajha.in/en/1x1/208x208/test_pic1608057169573.webp", ABP Majha
-https://m-c02-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8
+https://m-c04-j2apps.s.llnwi.net/hls/7016.ABPMajha.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" tvg-country="IN" tvg-url="" group-title="MX Live",News18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Maharashtra.png" tvg-country="IN" tvg-url="" group-title="MX Live",TV9 Maharashtra
