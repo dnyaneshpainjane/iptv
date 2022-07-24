@@ -2421,15 +2421,14 @@ https://m-c048-j2apps.s.llnwi.net/hls/8081.KensonNews.in.m3u8
 
 ################################################################## ZEE5 ###############################################################################################
 
-
+#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/channel_list/1170x658483062857.png", Zee Talkies HD
+http://ranapk.cf/ZxRn.php?c=0-9-zeetalkies
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/channel_list/1170x658withlogo551054149.png", Zee Marathi HD
+http://ranapk.cf/ZxRn.php?c=0-9-zeemarathi
 #EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/channel_list/1170x658withlogo167952257.png", Zee Cinema HD
 http://ranapk.cf/ZxRn.php?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png", &Pictures HD
 http://ranapk.cf/ZxRn.php?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/channel_list/1170x658withlogo551054149.png", Zee Marathi HD
-http://ranapk.cf/ZxRn.php?c=0-9-zeemarathi
-#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/channel_list/1170x658483062857.png", Zee Talkies HD
-http://ranapk.cf/ZxRn.php?c=0-9-zeetalkies
 #EXTINF:-1 tvg-id="0-9-348" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-348/channel_list/1170x658withlog2096037619.png", Zee Zest HD
 http://ranapk.cf/ZxRn.php?c=0-9-348
 #EXTINF:-1 tvg-id="0-9-400" group-title="Zee5" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_264,h_149,c_scale,f_webp,q_auto:eco/resources/0-9-400/channel_list/abpmajha1170cb8e2b94f9244846a3be5bdaa87792f8.png", ABP Majha
