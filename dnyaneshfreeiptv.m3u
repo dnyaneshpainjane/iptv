@@ -55,24 +55,44 @@ https://pubads.g.doubleclick.net/ssai/event/RLuKHGGZS72Dss9NPWaldw/master.m3u8
 
 ################################################################## Star ###############################################################################################
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Star",STAR BHARAT HD
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AAJ TAK HD (IN)" tvg-logo="" group-title="Star",AAJ TAK HD (IN)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/UGKHkDS.png",Star Plus HD
+http://103.55.144.46/hls/starplus.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/x2qwIpL.png",Sony HD
+http://103.55.144.46/hls/sonyen.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/KRjdRnV.png",Colors HD
+http://103.55.144.46/hls/colore-tv-hd.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/1GuSyCr.png",&Pictures HD
+http://103.55.144.46/hls/andpictures.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/dn923Mf.png",Zee Cinema HD
+http://103.55.144.46/hls/zeecinemahd.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/G0fh0PU.png",Star Gold2
+http://103.55.144.46/hls/stargold2hd.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/KRjdRnV.png",Colors Cineplex HD
+http://103.55.144.46/hls/colorscineplex.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/nDLjaDL.png",Utv Action
+http://103.55.144.46/hls/utvaction.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/starhd.jpg",star-worldhd
+https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
+#EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/mnx-hd.jpg",mnx-hd
+http://103.55.144.46/hls/mnx-hd.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/bindass.jpeg",bindass
+http://103.55.144.46/hls/bindass.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/sony-maxhd.jpg",sony-maxhd
+http://103.55.144.46/hls/sony-maxhd.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/zeetv.png",zeetv
+http://103.55.144.46/hls/zeetv.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/stargold.jpg",stargold
+http://103.55.144.46/hls/stargold.m3u8
+#EXTINF:-1 group-title="Star" tvg-logo="https://imgur.com/RpXwNZM.png",ZoOM
+http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" status="error" group-title="Star", Star Gold HD
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/G0fh0PU.png" status="error" group-title="Star", Star Gold2
 http://103.55.144.46/hls/stargold2hd.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="Star",STAR GOLD HD 
 http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD select" tvg-logo="" group-title="Star",STAR GOLD SELECT
-http://208.86.19.13:81/709.stream/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="Star",STAR PLUS HD
-http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PRAVAH HD" tvg-logo="" group-title="Star",STAR PRAVAH HD
-http://31.172.87.51:2200/R-EX/MARATHI_STAR_PARVAH_HD-in/index.m3u8?token=RED_-1U1EH3-b2sfGl7nOUnJqg==,1657797583.9359072311|User-agent=REDLINECLIENT
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Zee Talkies HD" tvg-logo="" group-title="Star",Zee Talkies HD
-http://live.geoiptv.org:8880/live/86869915/919108446769/587439.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MTV BEATS HD " tvg-logo="https://i.imgur.com/MU7x0QZ.png" group-title="Star",MTV BEATS HD
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -6438,36 +6458,36 @@ http://localhost:8080/JioTV/autoq.php?c=SET_MAX&q=800&e=junk.m3u8
 #EXTINF:-1 group-title="JIOLOCAL" tvg-logo="http://slcknecdnems08.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_SD.png" , Sony BBC Earth SD
 http://localhost:8080/JioTV/autoq.php?c=Sony_BBC_Earth_SD&q=800&e=junk.m3u8
 
-
+############################################### Discovery++ ################################################################
 
 #EXTINF:-1 tvg-id="dp95" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/328f4c6f-e0be-4c88-a39f-e19facc0bc0b.png" group-title="Discovery++",Discovery Channel HD
-http://103.174.4.171:8000/play/a06i/index.m3u8
+http://103.55.144.46/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="dp99" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",Animal Planet HD
 http://103.55.144.46/hls/animalplanent.m3u8
 #EXTINF:-1 tvg-id="dp100" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",National Geographic HD
 http://103.55.144.46/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery++",Discovery Science
+http://103.55.144.46/hls/dis-science.m3u8
+#EXTINF:-1 tvg-id="dp110" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery++",TRVL Channel 
+http://103.55.144.46/hls/travelxp.m3u8
+#EXTINF:-1 tvg-id="dp113" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/636b0db9-e298-43d3-97a2-f628986a0426.png" group-title="Discovery++",Discovery Kids 
+http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-id="dp100" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/6bfada34-767b-4654-a6a2-526173c6da8c.png" group-title="Discovery++",Nat Geo Wild HD
 http://103.174.4.171:8000/play/a074/index.m3u8
-#EXTINF:-1 tvg-id="dp96" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/0ab4383a-aa67-4166-aeb6-fcc1c6e02e66.png" group-title="Discovery++",Discovery Science
-http://103.174.4.171:8000/play/a06k/index.m3u8
-#EXTINF:-1 tvg-id="dp97" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" group-title="Discovery++",TLC
-https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=97
 #EXTINF:-1 tvg-id="dp98" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/8104e113-f6d2-46b2-85e2-c2c497eb8307.png" group-title="Discovery++",Discovery Turbo
 http://103.174.4.171:8000/play/a06l/index.m3u8
+#EXTINF:-1 tvg-id="dp97" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/644fb820-4583-4141-b251-bb2a70f2ca80.png" group-title="Discovery++",TLC
+https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=97
 #EXTINF:-1 tvg-id="dp101" tvg-logo="https://ap2-prod-images.disco-api.com/2020/09/06/3a1a78f6-ee48-46ff-a42a-9780d6f426e0.png" group-title="Discovery++",Investigation Discovery
 https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=101
 #EXTINF:-1 tvg-id="dp106" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/d187c23d-46da-4a59-8929-7534b7a01c0c.png" group-title="Discovery++",Eurosport 
 https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=106
 #EXTINF:-1 tvg-id="dp109" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/a297d103-9ac7-4a10-8359-1e65abb625cc.png" group-title="Discovery++",DMAX 
 https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=109
-#EXTINF:-1 tvg-id="dp110" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/05/967c038f-8703-4f64-9446-5a9032c86c87.png" group-title="Discovery++",TRVL Channel 
-https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=110
 #EXTINF:-1 tvg-id="dp111" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/17/df769200-cd93-420a-834a-f0426323787e.png" group-title="Discovery++",HGTV 
 https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=111
 #EXTINF:-1 tvg-id="dp112" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/512a525a-6841-4a53-bd25-22f5f055dd1a.png" group-title="Discovery++",Food Network
 https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=112
-#EXTINF:-1 tvg-id="dp113" tvg-logo="https://ap2-prod-images.disco-api.com/2020/12/16/636b0db9-e298-43d3-97a2-f628986a0426.png" group-title="Discovery++",Discovery Kids 
-https://live.ambaniuncle.tk/discoveryplus/api.m3u8?id=113
 
 
 
